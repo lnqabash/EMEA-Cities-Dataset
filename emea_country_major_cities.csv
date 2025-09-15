@@ -1,0 +1,1330 @@
+geonameid,name,asciiname,country_code,country_name,admin1,latitude,longitude,population,timezone
+3183875,Tirana,Tirana,AL,Albania,50,41.32744,19.81866,418495,Europe/Tirane
+3185728,Durrës,Durres,AL,Albania,42,41.32355,19.45469,195920,Europe/Tirane
+3183719,Vlorë,Vlore,AL,Albania,51,40.4696,19.48379,115261,Europe/Tirane
+783263,Elbasan,Elbasan,AL,Albania,43,41.11138,20.08224,100903,Europe/Tirane
+3184081,Shkodër,Shkoder,AL,Albania,49,42.06828,19.51258,95553,Europe/Tirane
+3184862,Lushnjë,Lushnje,AL,Albania,44,40.94194,19.705,63135,Europe/Tirane
+3186084,Berat,Berat,AL,Albania,40,40.70583,19.95222,62232,Europe/Tirane
+3185670,Fier-Çifçi,Fier-Cifci,AL,Albania,44,40.71667,19.56667,60995,Europe/Tirane
+782756,Korçë,Korce,AL,Albania,46,40.61861,20.78083,58259,Europe/Tirane
+3185672,Fier,Fier,AL,Albania,44,40.7251,19.55823,56297,Europe/Tirane
+3185082,Krujë,Kruje,AL,Albania,42,41.50917,19.79278,51191,Europe/Tirane
+2507480,Algiers,Algiers,DZ,Algeria,01,36.73225,3.08746,2364230,Africa/Algiers
+2485926,Oran,Oran,DZ,Algeria,09,35.69906,-0.63588,803329,Africa/Algiers
+2501152,Constantine,Constantine,DZ,Algeria,04,36.365,6.61472,448028,Africa/Algiers
+2506999,Annaba,Annaba,DZ,Algeria,37,36.9,7.76667,342703,Africa/Algiers
+2503769,Blida,Blida,DZ,Algeria,20,36.47004,2.8277,331779,Africa/Algiers
+2505572,Batna City,Batna City,DZ,Algeria,03,35.55597,6.17414,289504,Africa/Algiers
+2505854,Bab Ezzouar,Bab Ezzouar,DZ,Algeria,01,36.72615,3.18291,275630,Africa/Algiers
+2500017,Djelfa,Djelfa,DZ,Algeria,22,34.67279,3.263,265833,Africa/Algiers
+2481700,Sétif,Setif,DZ,Algeria,12,36.19112,5.41373,252127,Africa/Algiers
+2481007,Sidi Bel Abbes,Sidi Bel Abbes,DZ,Algeria,30,35.18994,-0.63085,210146,Africa/Algiers
+2503826,Biskra,Biskra,DZ,Algeria,19,34.85038,5.72805,204661,Africa/Algiers
+2477461,Tébessa,Tebessa,DZ,Algeria,33,35.40417,8.12417,194461,Africa/Algiers
+2497411,El Oued,El Oued,DZ,Algeria,43,33.35608,6.86319,186525,Africa/Algiers
+2479536,Skikda,Skikda,DZ,Algeria,31,36.87617,6.90921,182903,Africa/Algiers
+2476897,Tiaret,Tiaret,DZ,Algeria,13,35.37103,1.31699,178915,Africa/Algiers
+2498611,Chlef,Chlef,DZ,Algeria,41,36.16525,1.33452,178616,Africa/Algiers
+2505329,Béjaïa,Bejaia,DZ,Algeria,18,36.75587,5.08433,176139,Africa/Algiers
+2475687,Tlemcen,Tlemcen,DZ,Algeria,15,34.87833,-1.315,173531,Africa/Algiers
+2485801,Ouargla,Ouargla,DZ,Algeria,50,31.94932,5.32502,169928,Africa/Algiers
+2505530,Béchar,Bechar,DZ,Algeria,38,31.61667,-2.21667,165241,Africa/Algiers
+2240449,Luanda,Luanda,AO,Angola,20,-8.83682,13.23432,2776168,Africa/Luanda
+3347762,Lubango,Lubango,AO,Angola,09,-14.91717,13.4925,600751,Africa/Luanda
+3348313,Huambo,Huambo,AO,Angola,08,-12.77611,15.73917,595304,Africa/Luanda
+3351663,Benguela,Benguela,AO,Angola,01,-12.57674,13.40268,555124,Africa/Luanda
+2243271,Cabinda,Cabinda,AO,Angola,03,-5.56198,12.19476,550000,Africa/Luanda
+2239862,Malanje,Malanje,AO,Angola,12,-9.54015,16.34096,455000,Africa/Luanda
+145531,Saurimo,Saurimo,AO,Angola,18,-9.66078,20.39155,393000,Africa/Luanda
+3347939,Lobito,Lobito,AO,Angola,01,-12.3644,13.53601,357950,Africa/Luanda
+3348078,Cuíto,Cuito,AO,Angola,02,-12.38333,16.93333,355423,Africa/Luanda
+2236568,Uíge,Uige,AO,Angola,15,-7.60874,15.06131,322531,Africa/Luanda
+3347719,Luena,Luena,AO,Angola,14,-11.78333,19.91667,273675,Africa/Luanda
+3347019,Mossamedes,Mossamedes,AO,Angola,13,-15.19611,12.15222,255000,Africa/Luanda
+3347353,Menongue,Menongue,AO,Angola,04,-14.6585,17.69099,251178,Africa/Luanda
+145778,Chitato,Chitato,AO,Angola,17,-7.3,20.73333,246880,Africa/Luanda
+3346015,Sumbe,Sumbe,AO,Angola,06,-11.20605,13.84371,205832,Africa/Luanda
+2236967,Soyo,Soyo,AO,Angola,16,-6.1349,12.36894,200920,Africa/Luanda
+145757,Dundo,Dundo,AO,Angola,17,-7.36643,20.81557,177604,Africa/Luanda
+2239076,N'dalatando,N'dalatando,AO,Angola,05,-9.29782,14.91162,161584,Africa/Luanda
+2239520,Mbanza Kongo,Mbanza Kongo,AO,Angola,16,-6.26667,14.23833,148000,Africa/Luanda
+3351500,Caála,Caala,AO,Angola,08,-12.8525,15.56056,130000,Africa/Luanda
+2761369,Vienna,Vienna,AT,Austria,09,48.20849,16.37208,1691468,Europe/Vienna
+2778067,Graz,Graz,AT,Austria,06,47.06733,15.44197,303270,Europe/Vienna
+2772400,Linz,Linz,AT,Austria,04,48.30639,14.28611,204846,Europe/Vienna
+8063098,Favoriten,Favoriten,AT,Austria,09,48.16116,16.38233,201882,Europe/Vienna
+11903636,Donaustadt,Donaustadt,AT,Austria,09,48.2333,16.46002,187007,Europe/Vienna
+2779469,Floridsdorf,Floridsdorf,AT,Austria,09,48.25,16.4,162779,Europe/Vienna
+2766824,Salzburg,Salzburg,AT,Austria,05,47.79941,13.04399,157245,Europe/Vienna
+2775220,Innsbruck,Innsbruck,AT,Austria,07,47.26266,11.39454,132493,Europe/Vienna
+2769359,Ottakring,Ottakring,AT,Austria,09,48.21667,16.3,104627,Europe/Vienna
+2765028,Simmering,Simmering,AT,Austria,09,48.18333,16.43333,101420,Europe/Vienna
+2774326,Klagenfurt am Wörthersee,Klagenfurt am Woerthersee,AT,Austria,02,46.62472,14.30528,100316,Europe/Vienna
+12214069,Landstraße,Landstrasse,AT,Austria,09,48.2019,16.38792,98389,Europe/Vienna
+2775371,Penzing,Penzing,AT,Austria,09,48.2,16.26667,98176,Europe/Vienna
+2771706,Meidling,Meidling,AT,Austria,09,48.16667,16.33333,97624,Europe/Vienna
+12214081,Brigittenau,Brigittenau,AT,Austria,09,48.24275,16.37551,86967,Europe/Vienna
+2779139,Fünfhaus,Fuenfhaus,AT,Austria,09,48.19596,16.3183,76396,Europe/Vienna
+2600996,Döbling,Doebling,AT,Austria,09,48.25,16.33333,75418,Europe/Vienna
+2762372,Villach,Villach,AT,Austria,02,46.61028,13.85583,58882,Europe/Vienna
+2776488,Hernals,Hernals,AT,Austria,09,48.23333,16.26667,57546,Europe/Vienna
+12214070,Margareten,Margareten,AT,Austria,09,48.1855,16.35373,54412,Europe/Vienna
+385038,Ar Rifā‘,Ar Rifa',BH,Bahrain,17,26.13,50.555,195606,Asia/Bahrain
+290340,Manama,Manama,BH,Bahrain,16,26.22787,50.58565,147074,Asia/Bahrain
+290332,Al Muharraq,Al Muharraq,BH,Bahrain,15,26.25722,50.61194,97458,Asia/Bahrain
+290269,Dār Kulayb,Dar Kulayb,BH,Bahrain,17,26.06861,50.50389,65466,Asia/Bahrain
+290247,Madīnat Ḩamad,Madinat Hamad,BH,Bahrain,19,26.11528,50.50694,52718,Asia/Bahrain
+625144,Minsk,Minsk,BY,Belarus,04,53.90019,27.56653,1742124,Europe/Minsk
+627907,Homyel',Homyel',BY,Belarus,02,52.4345,30.9754,501102,Europe/Minsk
+627904,Hrodna,Hrodna,BY,Belarus,03,53.6758,23.82887,361115,Europe/Minsk
+620127,Vitebsk,Vitebsk,BY,Belarus,07,55.1904,30.2049,358395,Europe/Minsk
+625665,Mahilyow,Mahilyow,BY,Belarus,06,53.90876,30.34044,353110,Europe/Minsk
+629634,Brest,Brest,BY,Belarus,01,52.10894,23.71749,344470,Europe/Minsk
+630468,Bobruysk,Bobruysk,BY,Belarus,06,53.14636,29.20552,207351,Europe/Minsk
+630429,Baranovichi,Baranovichi,BY,Belarus,01,53.13253,26.00774,171361,Europe/Minsk
+630376,Barysaw,Barysaw,BY,Belarus,05,54.2279,28.505,135696,Europe/Minsk
+623549,Pinsk,Pinsk,BY,Belarus,01,52.12153,26.06726,124295,Europe/Minsk
+625324,Mazyr,Mazyr,BY,Belarus,02,52.04162,29.21631,105152,Europe/Minsk
+626081,Lida,Lida,BY,Belarus,03,53.88333,25.29972,103916,Europe/Minsk
+624079,Orsha,Orsha,BY,Belarus,07,54.51362,30.40365,102759,Europe/Minsk
+622428,Soligorsk,Soligorsk,BY,Belarus,05,52.78981,27.53583,97818,Europe/Minsk
+624784,Novopolotsk,Novopolotsk,BY,Belarus,07,55.52618,28.59308,95717,Europe/Minsk
+625625,Maladziečna,Maladziecna,BY,Belarus,05,54.3167,26.854,89068,Europe/Minsk
+623317,Polotsk,Polotsk,BY,Belarus,07,55.4879,28.7856,79579,Europe/Minsk
+618806,Zhlobin,Zhlobin,BY,Belarus,02,52.8926,30.024,76844,Europe/Minsk
+622794,Rechytsa,Rechytsa,BY,Belarus,02,52.3617,30.3916,65213,Europe/Minsk
+618800,Horad Zhodzina,Horad Zhodzina,BY,Belarus,05,54.0985,28.3331,63744,Europe/Minsk
+2800866,Brussels,Brussels,BE,Belgium,BRU,50.85045,4.34878,1019022,Europe/Brussels
+2803138,Antwerpen,Antwerpen,BE,Belgium,VLG,51.22047,4.40026,529247,Europe/Brussels
+2797656,Gent,Gent,BE,Belgium,VLG,51.05,3.71667,265086,Europe/Brussels
+2800481,Charleroi,Charleroi,BE,Belgium,WAL,50.41136,4.44448,200132,Europe/Brussels
+2792413,Liège,Liege,BE,Belgium,WAL,50.63373,5.56749,195278,Europe/Brussels
+2803201,Anderlecht,Anderlecht,BE,Belgium,BRU,50.83619,4.31454,160553,Europe/Brussels
+2787149,Schaerbeek,Schaerbeek,BE,Belgium,BRU,50.86935,4.37737,132761,Europe/Brussels
+2800931,Brugge,Brugge,BE,Belgium,VLG,51.20892,3.22424,118509,Europe/Brussels
+2790471,Namur,Namur,BE,Belgium,WAL,50.4669,4.86746,110939,Europe/Brussels
+2792482,Leuven,Leuven,BE,Belgium,VLG,50.87959,4.70093,101032,Europe/Brussels
+2791018,Molenbeek-Saint-Jean,Molenbeek-Saint-Jean,BE,Belgium,BRU,50.8499,4.31248,97037,Europe/Brussels
+2790869,Mons,Mons,BE,Belgium,WAL,50.45413,3.95229,95299,Europe/Brussels
+2795011,Ixelles,Ixelles,BE,Belgium,BRU,50.83333,4.36667,86671,Europe/Brussels
+2785123,Uccle,Uccle,BE,Belgium,BRU,50.80225,4.33943,82929,Europe/Brussels
+2799478,Deurne,Deurne,BE,Belgium,VLG,51.22134,4.46595,78747,Europe/Brussels
+2796491,Hasselt,Hasselt,BE,Belgium,VLG,50.93106,5.33781,77651,Europe/Brussels
+2803448,Aalst,Aalst,BE,Belgium,VLG,50.93604,4.0355,77534,Europe/Brussels
+2791537,Mechelen,Mechelen,BE,Belgium,VLG,51.02574,4.47762,77530,Europe/Brussels
+2793508,La Louvière,La Louviere,BE,Belgium,WAL,50.48657,4.18785,76668,Europe/Brussels
+2794055,Kortrijk,Kortrijk,BE,Belgium,VLG,50.82803,3.26487,73879,Europe/Brussels
+2394819,Cotonou,Cotonou,BJ,Benin,14,6.36536,2.41833,679012,Africa/Porto-Novo
+2395914,Abomey-Calavi,Abomey-Calavi,BJ,Benin,09,6.44852,2.35566,385755,Africa/Porto-Novo
+2392087,Porto-Novo,Porto-Novo,BJ,Benin,16,6.49646,2.60359,264320,Africa/Porto-Novo
+2392204,Parakou,Parakou,BJ,Benin,10,9.33716,2.63031,255478,Africa/Porto-Novo
+2394092,Godomè,Godome,BJ,Benin,09,6.38948,2.34581,253262,Africa/Porto-Novo
+2395915,Abomey,Abomey,BJ,Benin,18,7.18286,1.99119,117824,Africa/Porto-Novo
+2394560,Djougou,Djougou,BJ,Benin,13,9.70853,1.66598,94773,Africa/Porto-Novo
+2395049,Bohicon,Bohicon,BJ,Benin,18,7.17826,2.0667,93744,Africa/Porto-Novo
+2394427,Ekpé,Ekpe,BJ,Benin,16,6.39209,2.53725,75313,Africa/Porto-Novo
+2392505,Nikki,Nikki,BJ,Benin,10,9.94009,3.21075,66109,Africa/Porto-Novo
+2392837,Malanville,Malanville,BJ,Benin,07,11.86819,3.38327,64639,Africa/Porto-Novo
+2393693,Kandi,Kandi,BJ,Benin,07,11.13417,2.93861,56043,Africa/Porto-Novo
+2393561,Kérou,Kerou,BJ,Benin,08,10.82578,2.10479,54276,Africa/Porto-Novo
+2392601,Natitingou,Natitingou,BJ,Benin,08,10.30416,1.37962,53284,Africa/Porto-Novo
+3191281,Sarajevo,Sarajevo,BA,Bosnia and Herzegovina,01,43.84864,18.35644,696731,Europe/Sarajevo
+3204541,Banja Luka,Banja Luka,BA,Bosnia and Herzegovina,02,44.77879,17.20629,221106,Europe/Sarajevo
+3186573,Zenica,Zenica,BA,Bosnia and Herzegovina,01,44.20169,17.90397,164423,Europe/Sarajevo
+3188582,Tuzla,Tuzla,BA,Bosnia and Herzegovina,01,44.53842,18.66709,142486,Europe/Sarajevo
+3194828,Mostar,Mostar,BA,Bosnia and Herzegovina,01,43.34333,17.80806,104518,Europe/Sarajevo
+3204222,Bihać,Bihac,BA,Bosnia and Herzegovina,01,44.81694,15.87083,75641,Europe/Sarajevo
+3199145,Ilidža,Ilidza,BA,Bosnia and Herzegovina,01,43.83148,18.30697,71277,Europe/Sarajevo
+933773,Gaborone,Gaborone,BW,Botswana,14,-24.65451,25.90859,246325,Africa/Gaborone
+933778,Francistown,Francistown,BW,Botswana,13,-21.17,27.50778,103417,Africa/Gaborone
+933331,Mogoditshane,Mogoditshane,BW,Botswana,06,-24.62694,25.86556,88004,Africa/Gaborone
+933366,Maun,Maun,BW,Botswana,11,-19.98333,23.41667,85350,Africa/Gaborone
+933305,Molepolole,Molepolole,BW,Botswana,06,-24.40659,25.49508,74861,Africa/Gaborone
+933088,Serowe,Serowe,BW,Botswana,01,-22.38754,26.71077,55676,Africa/Gaborone
+933004,Tlokweng,Tlokweng,BW,Botswana,09,-24.66861,25.97111,55508,Africa/Gaborone
+933182,Palapye,Palapye,BW,Botswana,01,-22.54605,27.12507,52636,Africa/Gaborone
+933340,Mochudi,Mochudi,BW,Botswana,05,-24.41667,26.15,50321,Africa/Gaborone
+727011,Sofia,Sofia,BG,Bulgaria,42,42.69751,23.32415,1152556,Europe/Sofia
+728193,Plovdiv,Plovdiv,BG,Bulgaria,51,42.15387,24.75001,346893,Europe/Sofia
+726050,Varna,Varna,BG,Bulgaria,61,43.21912,27.91024,312770,Europe/Sofia
+732770,Burgas,Burgas,BG,Bulgaria,39,42.50651,27.46886,195966,Europe/Sofia
+726848,Stara Zagora,Stara Zagora,BG,Bulgaria,59,42.43205,25.64262,143431,Europe/Sofia
+727523,Ruse,Ruse,BG,Bulgaria,53,43.84872,25.9534,143417,Europe/Sofia
+728203,Pleven,Pleven,BG,Bulgaria,50,43.41791,24.61666,100952,Europe/Sofia
+727079,Sliven,Sliven,BG,Bulgaria,56,42.68607,26.32558,83740,Europe/Sofia
+728330,Pernik,Pernik,BG,Bulgaria,49,42.59671,23.03318,82467,Europe/Sofia
+726418,Dobrich,Dobrich,BG,Bulgaria,40,43.56491,27.83138,79269,Europe/Sofia
+727233,Shumen,Shumen,BG,Bulgaria,54,43.27064,26.92286,72342,Europe/Sofia
+733191,Blagoevgrad,Blagoevgrad,BG,Bulgaria,38,42.01457,23.09804,67810,Europe/Sofia
+730435,Haskovo,Haskovo,BG,Bulgaria,43,41.93415,25.55557,67086,Europe/Sofia
+725993,Veliko Tŭrnovo,Veliko Turnovo,BG,Bulgaria,62,43.08124,25.62904,66217,Europe/Sofia
+731549,Gabrovo,Gabrovo,BG,Bulgaria,41,42.87419,25.31823,66175,Europe/Sofia
+728378,Pazardzhik,Pazardzhik,BG,Bulgaria,48,42.19934,24.33318,65671,Europe/Sofia
+725712,Vratsa,Vratsa,BG,Bulgaria,64,43.21052,23.56312,64941,Europe/Sofia
+725578,Yambol,Yambol,BG,Bulgaria,65,42.48243,26.50006,63656,Europe/Sofia
+733618,Asenovgrad,Asenovgrad,BG,Bulgaria,51,42.01667,24.86667,54778,Europe/Sofia
+729794,Kardzhali,Kardzhali,BG,Bulgaria,44,41.64502,25.36578,51000,Europe/Sofia
+2357048,Ouagadougou,Ouagadougou,BF,Burkina Faso,03,12.36566,-1.53388,2415266,Africa/Ouagadougou
+2362344,Bobo-Dioulasso,Bobo-Dioulasso,BF,Burkina Faso,09,11.17715,-4.2979,904920,Africa/Ouagadougou
+2358946,Koudougou,Koudougou,BF,Burkina Faso,06,12.25263,-2.36272,160239,Africa/Ouagadougou
+2356157,Saaba,Saaba,BF,Burkina Faso,03,12.37136,-1.41468,136011,Africa/Ouagadougou
+2357043,Ouahigouya,Ouahigouya,BF,Burkina Faso,10,13.58278,-2.42158,124587,Africa/Ouagadougou
+2359608,Kaya,Kaya,BF,Burkina Faso,05,13.09167,-1.08444,121970,Africa/Ouagadougou
+2362909,Banfora,Banfora,BF,Burkina Faso,02,10.63333,-4.76667,117452,Africa/Ouagadougou
+2356300,Pouytenga,Pouytenga,BF,Burkina Faso,04,12.25162,-0.42565,96469,Africa/Ouagadougou
+2360073,Houndé,Hounde,BF,Burkina Faso,09,11.5,-3.51667,87151,Africa/Ouagadougou
+2360886,Fada N'gourma,Fada N'gourma,BF,Burkina Faso,08,12.06157,0.35843,73200,Africa/Ouagadougou
+2357109,Nioko I,Nioko I,BF,Burkina Faso,03,12.39501,-1.43861,65263,Africa/Ouagadougou
+2361477,Dédougou,Dedougou,BF,Burkina Faso,01,12.46338,-3.46075,63617,Africa/Ouagadougou
+2354675,Tenkodogo,Tenkodogo,BF,Burkina Faso,04,11.78,-0.36972,61936,Africa/Ouagadougou
+2361177,Djibo,Djibo,BF,Burkina Faso,12,14.0994,-1.62554,61462,Africa/Ouagadougou
+2359142,Kongoussi,Kongoussi,BF,Burkina Faso,05,13.32583,-1.53472,53627,Africa/Ouagadougou
+2358382,Léo,Leo,BF,Burkina Faso,06,11.10033,-2.10654,51743,Africa/Ouagadougou
+425378,Bujumbura,Bujumbura,BI,Burundi,24,-3.38193,29.36142,769317,Africa/Bujumbura
+426272,Gitega,Gitega,BI,Burundi,13,-3.42708,29.92463,64904,Africa/Bujumbura
+430569,Ngozi,Ngozi,BI,Burundi,19,-2.9075,29.8306,61716,Africa/Bujumbura
+423549,Rumonge,Rumonge,BI,Burundi,26,-3.9736,29.4386,55599,Africa/Bujumbura
+3374333,Praia,Praia,CV,Cabo Verde,14,14.93152,-23.51254,137868,Atlantic/Cape_Verde
+3374462,Mindelo,Mindelo,CV,Cabo Verde,11,16.89014,-24.98042,69013,Atlantic/Cape_Verde
+2232593,Douala,Douala,CM,Cameroon,05,4.04827,9.70428,1338082,Africa/Douala
+2220957,Yaoundé,Yaounde,CM,Cameroon,11,3.86667,11.51667,1299369,Africa/Douala
+2234974,Bamenda,Bamenda,CM,Cameroon,07,5.9597,10.14597,420445,Africa/Douala
+2235189,Bafoussam,Bafoussam,CM,Cameroon,08,5.47775,10.41759,373268,Africa/Douala
+2228373,Maroua,Maroua,CM,Cameroon,12,10.59095,14.31593,314122,Africa/Douala
+2224827,Ngaoundéré,Ngaoundere,CM,Cameroon,10,7.32765,13.58472,238196,Africa/Douala
+2229752,Kumba,Kumba,CM,Cameroon,09,4.6363,9.4469,225046,Africa/Douala
+2223763,Nkongsamba,Nkongsamba,CM,Cameroon,05,4.9547,9.9404,162309,Africa/Douala
+2233410,Buea,Buea,CM,Cameroon,09,4.15342,9.24231,140533,Africa/Douala
+2229798,Kousséri,Kousseri,CM,Cameroon,12,12.07689,15.03063,139024,Africa/Douala
+2234359,Bertoua,Bertoua,CM,Cameroon,04,4.57728,13.68459,137993,Africa/Douala
+2229411,Limbe,Limbe,CM,Cameroon,09,4.02356,9.20607,131381,Africa/Douala
+2231506,Foumban,Foumban,CM,Cameroon,08,5.72662,10.89865,130287,Africa/Douala
+2229748,Kumbo,Kumbo,CM,Cameroon,07,6.2,10.66667,125124,Africa/Douala
+2232239,Edéa,Edea,CM,Cameroon,05,3.8,10.13333,103861,Africa/Douala
+2232283,Ébolowa,Ebolowa,CM,Cameroon,14,2.9,11.15,101363,Africa/Douala
+2232444,Dschang,Dschang,CM,Cameroon,08,5.44397,10.05332,99582,Africa/Douala
+2221504,Tiko,Tiko,CM,Cameroon,09,4.075,9.36005,94836,Africa/Douala
+2229761,Kribi,Kribi,CM,Cameroon,14,2.93725,9.90765,93482,Africa/Douala
+2228079,Mbalmayo,Mbalmayo,CM,Cameroon,11,3.51667,11.5,82384,Africa/Douala
+2389853,Bangui,Bangui,CF,Central African Republic,18,4.36122,18.55496,812407,Africa/Bangui
+2388873,Bimbo,Bimbo,CF,Central African Republic,17,4.25671,18.41583,348802,Africa/Bangui
+2389422,Bégoua,Begoua,CF,Central African Republic,17,4.45437,18.53475,264067,Africa/Bangui
+2387495,Carnot,Carnot,CF,Central African Republic,19,4.94273,15.87735,129032,Africa/Bangui
+2389086,Berbérati,Berberati,CF,Central African Republic,04,4.26116,15.79216,103713,Africa/Bangui
+240604,Bambari,Bambari,CF,Central African Republic,11,5.76795,20.67565,83029,Africa/Bangui
+2387926,Bouar,Bouar,CF,Central African Republic,09,5.93404,15.59599,71680,Africa/Bangui
+2388036,Bossangoa,Bossangoa,CF,Central African Republic,12,6.49263,17.45518,55353,Africa/Bangui
+2386012,Kaga-Bandoro,Kaga-Bandoro,CF,Central African Republic,15,6.98961,19.18744,55047,Africa/Bangui
+240498,Bangassou,Bangassou,CF,Central African Republic,08,4.74132,22.81838,54059,Africa/Bangui
+2427123,N'Djamena,N'Djamena,TD,Chad,21,12.10672,15.0444,1359526,Africa/Ndjamena
+2427455,Moundou,Moundou,TD,Chad,08,8.57437,16.07722,196124,Africa/Ndjamena
+245785,Abéché,Abeche,TD,Chad,12,13.82916,20.8324,139983,Africa/Ndjamena
+2425791,Sarh,Sarh,TD,Chad,17,9.14555,18.38331,138928,Africa/Ndjamena
+2430506,Kelo,Kelo,TD,Chad,14,9.30859,15.80658,82677,Africa/Ndjamena
+245338,Am Timan,Am Timan,TD,Chad,13,11.0433,20.28342,74691,Africa/Ndjamena
+2433437,Doba,Doba,TD,Chad,09,8.66389,16.85324,70942,Africa/Ndjamena
+2426240,Pala,Pala,TD,Chad,20,9.3646,14.90725,70677,Africa/Ndjamena
+2434910,Bongor,Bongor,TD,Chad,16,10.28088,15.37425,63699,Africa/Ndjamena
+243787,Goz Beida,Goz Beida,TD,Chad,25,12.22643,21.40983,58941,Africa/Ndjamena
+2429605,Koumra,Koumra,TD,Chad,19,8.91587,17.55046,54109,Africa/Ndjamena
+2427637,Mongo,Mongo,TD,Chad,05,12.18514,18.6884,53768,Africa/Ndjamena
+2434979,Bol,Bol,TD,Chad,07,13.46729,14.71352,51389,Africa/Ndjamena
+2428394,Mao,Mao,TD,Chad,06,14.12286,15.31189,50681,Africa/Ndjamena
+921772,Moroni,Moroni,KM,Comoros,02,-11.70216,43.25506,74749,Indian/Comoro
+3186886,Zagreb,Zagreb,HR,Croatia,21,45.81444,15.97798,663592,Europe/Zagreb
+3190261,Split,Split,HR,Croatia,15,43.50891,16.43915,149830,Europe/Zagreb
+3191648,Rijeka,Rijeka,HR,Croatia,12,45.32673,14.44241,107964,Europe/Zagreb
+3193935,Osijek,Osijek,HR,Croatia,10,45.55066,18.6942,75535,Europe/Zagreb
+3186952,Zadar,Zadar,HR,Croatia,19,44.11578,15.22514,67309,Europe/Zagreb
+3190966,Sesvete,Sesvete,HR,Croatia,21,45.83111,16.11639,55313,Europe/Zagreb
+3192224,Pula,Pula,HR,Croatia,04,44.86833,13.84806,52220,Europe/Zagreb
+146268,Nicosia,Nicosia,CY,Cyprus,04,35.17284,33.35397,200452,Asia/Nicosia
+146384,Limassol,Limassol,CY,Cyprus,05,34.68406,33.03794,154000,Asia/Nicosia
+146400,Larnaca,Larnaca,CY,Cyprus,03,34.9221,33.62794,72000,Asia/Nicosia
+146054,Stróvolos,Strovolos,CY,Cyprus,04,35.14867,33.33384,67904,Asia/Nicosia
+3067696,Prague,Prague,CZ,Czechia,52,50.08804,14.42076,1165581,Europe/Prague
+3078610,Brno,Brno,CZ,Czechia,78,49.19522,16.60796,379466,Europe/Prague
+3068799,Ostrava,Ostrava,CZ,Czechia,85,49.83465,18.28204,279791,Europe/Prague
+3068160,Pilsen,Pilsen,CZ,Czechia,87,49.74747,13.37759,168733,Europe/Prague
+3071961,Liberec,Liberec,CZ,Czechia,83,50.76711,15.05619,102951,Europe/Prague
+3069011,Olomouc,Olomouc,CZ,Czechia,84,49.59552,17.25175,99496,Europe/Prague
+3077916,České Budějovice,Ceske Budejovice,CZ,Czechia,79,48.97447,14.47434,93426,Europe/Prague
+3074967,Hradec Králové,Hradec Kralove,CZ,Czechia,82,50.20923,15.83277,90596,Europe/Prague
+3063548,Ústí nad Labem,Usti nad Labem,CZ,Czechia,89,50.6607,14.03227,90378,Europe/Prague
+3068582,Pardubice,Pardubice,CZ,Czechia,86,50.04075,15.77659,88520,Europe/Prague
+3075921,Havířov,Havirov,CZ,Czechia,85,49.77984,18.43688,82768,Europe/Prague
+3061370,Zlín,Zlin,CZ,Czechia,90,49.22645,17.67065,72973,Europe/Prague
+3070291,Most,Most,CZ,Czechia,89,50.50301,13.63617,67905,Europe/Prague
+3073699,Kladno,Kladno,CZ,Czechia,88,50.14734,14.10285,66903,Europe/Prague
+3073789,Karviná,Karvina,CZ,Czechia,85,49.854,18.54169,63677,Europe/Prague
+3065112,Stodůlky,Stodulky,CZ,Czechia,52,50.05,14.31667,60758,Europe/Prague
+3068927,Opava,Opava,CZ,Czechia,85,49.93866,17.90257,60252,Europe/Prague
+3076127,Frýdek-Místek,Frydek-Mistek,CZ,Czechia,85,49.68333,18.35,59416,Europe/Prague
+3061412,Žižkov,Zizkov,CZ,Czechia,52,50.08333,14.45,58267,Europe/Prague
+3077244,Děčín,Decin,CZ,Czechia,89,50.78215,14.21478,52058,Europe/Prague
+2618425,Copenhagen,Copenhagen,DK,Denmark,17,55.67594,12.56553,1153615,Europe/Copenhagen
+2624652,Århus,Arhus,DK,Denmark,18,56.15674,10.21076,285273,Europe/Copenhagen
+2615876,Odense,Odense,DK,Denmark,21,55.39594,10.38831,180863,Europe/Copenhagen
+2624886,Aalborg,Aalborg,DK,Denmark,19,57.048,9.9187,142937,Europe/Copenhagen
+2621942,Frederiksberg,Frederiksberg,DK,Denmark,17,55.67938,12.53463,95029,Europe/Copenhagen
+2622447,Esbjerg,Esbjerg,DK,Denmark,21,55.47028,8.45187,71698,Europe/Copenhagen
+2615006,Randers,Randers,DK,Denmark,18,56.4607,10.03639,62802,Europe/Copenhagen
+2618528,Kolding,Kolding,DK,Denmark,21,55.4904,9.47216,61638,Europe/Copenhagen
+2619771,Horsens,Horsens,DK,Denmark,18,55.86066,9.85034,61074,Europe/Copenhagen
+2610613,Vejle,Vejle,DK,Denmark,21,55.70927,9.5357,60231,Europe/Copenhagen
+2619528,Hvidovre,Hvidovre,DK,Denmark,17,55.64297,12.47708,53527,Europe/Copenhagen
+2618741,Klinteby Frihed,Klinteby Frihed,DK,Denmark,20,55.19705,11.59603,53443,Europe/Copenhagen
+2624427,Avedøre,Avedore,DK,Denmark,17,55.62722,12.45644,53443,Europe/Copenhagen
+2614481,Roskilde,Roskilde,DK,Denmark,20,55.64152,12.08035,51916,Europe/Copenhagen
+2620425,Herning,Herning,DK,Denmark,18,56.13615,8.97662,50565,Europe/Copenhagen
+223817,Djibouti,Djibouti,DJ,Djibouti,07,11.58901,43.14503,626512,Africa/Djibouti
+225284,Ali Sabih,Ali Sabih,DJ,Djibouti,01,11.15583,42.7125,50006,Africa/Djibouti
+360630,Cairo,Cairo,EG,Egypt,11,30.06263,31.24967,9606916,Africa/Cairo
+361058,Alexandria,Alexandria,EG,Egypt,06,31.20176,29.91582,5263542,Africa/Cairo
+360995,Giza,Giza,EG,Egypt,08,30.00944,31.20861,4367343,Africa/Cairo
+349076,Shubrā al Khaymah,Shubra al Khaymah,EG,Egypt,12,30.12511,31.25053,1240289,Africa/Cairo
+358619,Port Said,Port Said,EG,Egypt,19,31.26531,32.3019,780515,Africa/Cairo
+359796,Suez,Suez,EG,Egypt,15,29.97371,32.52627,699541,Africa/Cairo
+353225,Madīnat an Naşr,Madinat an Nasr,EG,Egypt,11,30.06667,31.3,668413,Africa/Cairo
+360761,Al Mansurah,Al Mansurah,EG,Egypt,01,31.03637,31.38069,621953,Africa/Cairo
+360829,Al Maḩallah al Kubrá,Al Mahallah al Kubra,EG,Egypt,05,30.97063,31.1669,592573,Africa/Cairo
+347497,Tanta,Tanta,EG,Egypt,05,30.78847,31.00192,576648,Africa/Cairo
+359783,Assiut,Assiut,EG,Egypt,17,27.18096,31.18368,528669,Africa/Cairo
+361320,Al Fayyum,Al Fayyum,EG,Egypt,04,29.30995,30.8418,519047,Africa/Cairo
+360890,Al Khuşūş,Al Khusus,EG,Egypt,12,30.15293,31.31501,488904,Africa/Cairo
+359493,Zagazig,Zagazig,EG,Egypt,14,30.58768,31.502,430445,Africa/Cairo
+361055,Ismailia,Ismailia,EG,Egypt,07,30.60427,32.27225,429465,Africa/Cairo
+360502,Luxor,Luxor,EG,Egypt,28,25.69893,32.6421,422407,Africa/Cairo
+359792,Aswān,Aswan,EG,Egypt,16,24.09082,32.89942,379774,Africa/Cairo
+353219,6th of October City,6th of October City,EG,Egypt,08,29.81667,31.05,368650,Africa/Cairo
+356436,Ḩadā’iq al Qubbah,Hada'iq al Qubbah,EG,Egypt,11,30.08843,31.28351,339612,Africa/Cairo
+358448,Damanhur,Damanhur,EG,Egypt,03,31.03408,30.46823,318207,Africa/Cairo
+2310046,Bata,Bata,GQ,Equatorial Guinea,08,1.86391,9.76582,173046,Africa/Malabo
+2309527,Malabo,Malabo,GQ,Equatorial Guinea,04,3.75578,8.78166,155963,Africa/Malabo
+343300,Asmara,Asmara,ER,Eritrea,05,15.33805,38.93184,563930,Africa/Asmara
+333287,Keren,Keren,ER,Eritrea,01,15.77792,38.45107,74800,Africa/Asmara
+588409,Tallinn,Tallinn,EE,Estonia,01,59.43696,24.75353,394024,Europe/Tallinn
+588335,Tartu,Tartu,EE,Estonia,18,58.38062,26.72509,91407,Europe/Tallinn
+590031,Narva,Narva,EE,Estonia,03,59.37722,28.19028,54409,Europe/Tallinn
+934995,Manzini,Manzini,SZ,Eswatini,03,-26.49884,31.38004,110537,Africa/Mbabane
+934985,Mbabane,Mbabane,SZ,Eswatini,01,-26.31667,31.13333,76218,Africa/Mbabane
+344979,Addis Ababa,Addis Ababa,ET,Ethiopia,44,9.02497,38.74689,3860000,Africa/Addis_Ababa
+333795,Jijiga,Jijiga,ET,Ethiopia,52,9.35,42.8,483000,Africa/Addis_Ababa
+336014,Gonder,Gonder,ET,Ethiopia,46,12.6,37.46667,466000,Africa/Addis_Ababa
+331180,Mek'ele,Mek'ele,ET,Ethiopia,53,13.49667,39.47528,457900,Africa/Addis_Ababa
+330186,Nazrēt,Nazret,ET,Ethiopia,51,8.55,39.26667,456900,Africa/Addis_Ababa
+343137,Awasa,Awasa,ET,Ethiopia,SI,7.06205,38.47635,422200,Africa/Addis_Ababa
+342884,Bahir Dar,Bahir Dar,ET,Ethiopia,46,11.59364,37.39077,350000,Africa/Addis_Ababa
+338832,Dire Dawa,Dire Dawa,ET,Ethiopia,48,9.59306,41.86611,343000,Africa/Addis_Ababa
+339219,Dessie,Dessie,ET,Ethiopia,46,11.13333,39.63333,270400,Africa/Addis_Ababa
+333772,Jimma,Jimma,ET,Ethiopia,51,7.67344,36.83441,250900,Africa/Addis_Ababa
+328689,Shashamane,Shashamane,ET,Ethiopia,51,7.2,38.6,208400,Africa/Addis_Ababa
+339666,Bishoftu,Bishoftu,ET,Ethiopia,51,8.75225,38.97846,207400,Africa/Addis_Ababa
+7910079,Sodo,Sodo,ET,Ethiopia,56,6.86,37.76159,204100,Africa/Addis_Ababa
+343663,Arba Minch,Arba Minch,ET,Ethiopia,56,6.03333,37.55,201000,Africa/Addis_Ababa
+334609,Hosa’ina,Hosa'ina,ET,Ethiopia,55,7.54978,37.85374,188200,Africa/Addis_Ababa
+338998,Dīla,Dila,ET,Ethiopia,56,6.41667,38.31667,158800,Africa/Addis_Ababa
+335035,Harar,Harar,ET,Ethiopia,50,9.31387,42.11815,157000,Africa/Addis_Ababa
+330118,Nek’emtē,Nek'emte,ET,Ethiopia,51,9.08333,36.55,156000,Africa/Addis_Ababa
+343749,Ārabī,Arabi,ET,Ethiopia,52,9.96278,42.49278,148933,Africa/Addis_Ababa
+339734,Debre Birhan,Debre Birhan,ET,Ethiopia,46,9.67954,39.53262,146900,Africa/Addis_Ababa
+658225,Helsinki,Helsinki,FI,Finland,01,60.16952,24.93545,658864,Europe/Helsinki
+660158,Espoo,Espoo,FI,Finland,01,60.2052,24.6522,256760,Europe/Helsinki
+634963,Tampere,Tampere,FI,Finland,06,61.49911,23.78712,244315,Europe/Helsinki
+643492,Oulu,Oulu,FI,Finland,17,65.01236,25.46816,209648,Europe/Helsinki
+633679,Turku,Turku,FI,Finland,02,60.45148,22.26869,195301,Europe/Helsinki
+632453,Vantaa,Vantaa,FI,Finland,01,60.29414,25.04099,190058,Europe/Helsinki
+12747032,East Helsinki,East Helsinki,FI,Finland,01,60.21043,25.08289,170557,Europe/Helsinki
+655194,Jyväskylä,Jyvaeskylae,FI,Finland,13,62.24147,25.72088,144477,Europe/Helsinki
+650224,Kuopio,Kuopio,FI,Finland,11,62.89238,27.67703,121557,Europe/Helsinki
+649360,Lahti,Lahti,FI,Finland,07,60.98267,25.66151,120093,Europe/Helsinki
+640999,Pori,Pori,FI,Finland,04,61.48072,21.78518,83491,Europe/Helsinki
+650859,Kouvola,Kouvola,FI,Finland,08,60.86667,26.7,80483,Europe/Helsinki
+655808,Joensuu,Joensuu,FI,Finland,12,62.60118,29.76316,77266,Europe/Helsinki
+648900,Lappeenranta,Lappeenranta,FI,Finland,09,61.05871,28.18871,72646,Europe/Helsinki
+659180,Hämeenlinna,Haemeenlinna,FI,Finland,05,60.99596,24.46434,67994,Europe/Helsinki
+632978,Vaasa,Vaasa,FI,Finland,15,63.096,21.61577,67631,Europe/Helsinki
+637219,Seinäjoki,Seinaejoki,FI,Finland,14,62.79446,22.82822,64743,Europe/Helsinki
+638936,Rovaniemi,Rovaniemi,FI,Finland,19,66.49897,25.68867,64194,Europe/Helsinki
+650946,Kotka,Kotka,FI,Finland,08,60.4664,26.94582,54616,Europe/Helsinki
+646005,Mikkeli,Mikkeli,FI,Finland,10,61.68857,27.27227,52121,Europe/Helsinki
+2988507,Paris,Paris,FR,France,11,48.85341,2.3488,2138551,Europe/Paris
+2995469,Marseille,Marseille,FR,France,93,43.29695,5.38107,870731,Europe/Paris
+2996944,Lyon,Lyon,FR,France,84,45.74906,4.84789,522969,Europe/Paris
+2972315,Toulouse,Toulouse,FR,France,76,43.60426,1.44367,493465,Europe/Paris
+2990440,Nice,Nice,FR,France,93,43.70313,7.26608,342669,Europe/Paris
+2990969,Nantes,Nantes,FR,France,52,47.21725,-1.55336,318808,Europe/Paris
+12278193,Marne La Vallée,Marne La Vallee,FR,France,11,48.83584,2.64241,318325,Europe/Paris
+2973783,Strasbourg,Strasbourg,FR,France,44,48.58392,7.74553,274845,Europe/Paris
+3031582,Bordeaux,Bordeaux,FR,France,75,44.84124,-0.58046,260958,Europe/Paris
+2992166,Montpellier,Montpellier,FR,France,76,43.61093,3.87635,248252,Europe/Paris
+2982652,Rouen,Rouen,FR,France,28,49.44313,1.09932,234475,Europe/Paris
+2998324,Lille,Lille,FR,France,32,50.63391,3.05512,234475,Europe/Paris
+2983990,Rennes,Rennes,FR,France,53,48.11109,-1.67431,220488,Europe/Paris
+2984114,Reims,Reims,FR,France,44,49.26526,4.02853,196565,Europe/Paris
+3003796,Le Havre,Le Havre,FR,France,28,49.49346,0.10785,185972,Europe/Paris
+8555643,Cergy-Pontoise,Cergy-Pontoise,FR,France,11,49.03894,2.07805,183430,Europe/Paris
+12808673,Paris 13e Arrondissement,Paris 13e Arrondissement,FR,France,11,48.8262,2.35986,177833,Europe/Paris
+2980291,Saint-Étienne,Saint-Etienne,FR,France,84,45.43389,4.39,176280,Europe/Paris
+2972328,Toulon,Toulon,FR,France,93,43.12442,5.92836,168701,Europe/Paris
+3037656,Angers,Angers,FR,France,52,47.47156,-0.55202,168279,Europe/Paris
+2399697,Libreville,Libreville,GA,Gabon,01,0.39241,9.45356,846090,Africa/Libreville
+2396518,Port-Gentil,Port-Gentil,GA,Gabon,08,-0.71933,8.78151,164018,Africa/Libreville
+2400555,Franceville,Franceville,GA,Gabon,02,-1.63333,13.58357,132895,Africa/Libreville
+2396657,Owendo,Owendo,GA,Gabon,01,0.29123,9.50465,95313,Africa/Libreville
+2396646,Oyem,Oyem,GA,Gabon,09,1.5995,11.57933,72939,Africa/Libreville
+2398269,Moanda,Moanda,GA,Gabon,02,-1.56652,13.1987,71099,Africa/Libreville
+2397169,Ntoum,Ntoum,GA,Gabon,01,0.39051,9.76096,62445,Africa/Libreville
+2411989,Serekunda,Serekunda,GM,Gambia,01,13.43833,-16.67806,340000,Africa/Banjul
+2413753,Brikama,Brikama,GM,Gambia,05,13.27136,-16.64944,97233,Africa/Banjul
+2413709,Bununka Kunda,Bununka Kunda,GM,Gambia,01,13.42722,-16.68528,66449,Africa/Banjul
+2411880,Sukuta,Sukuta,GM,Gambia,05,13.41033,-16.70815,56472,Africa/Banjul
+2950159,Berlin,Berlin,DE,Germany,16,52.52437,13.41053,3426354,Europe/Berlin
+2911298,Hamburg,Hamburg,DE,Germany,04,53.55073,9.99302,1845229,Europe/Berlin
+2867714,Munich,Munich,DE,Germany,02,48.13743,11.57549,1260391,Europe/Berlin
+2886242,Köln,Koeln,DE,Germany,07,50.93333,6.95,963395,Europe/Berlin
+2925533,Frankfurt am Main,Frankfurt am Main,DE,Germany,05,50.11552,8.68417,650000,Europe/Berlin
+2825297,Stuttgart,Stuttgart,DE,Germany,01,48.78232,9.17702,630305,Europe/Berlin
+2934246,Düsseldorf,Duesseldorf,DE,Germany,07,51.22172,6.77616,620523,Europe/Berlin
+2928810,Essen,Essen,DE,Germany,07,51.45657,7.01228,593085,Europe/Berlin
+2935517,Dortmund,Dortmund,DE,Germany,07,51.51494,7.466,588462,Europe/Berlin
+2935022,Dresden,Dresden,DE,Germany,13,51.05089,13.73832,556227,Europe/Berlin
+2944388,Bremen,Bremen,DE,Germany,03,53.07582,8.80717,546501,Europe/Berlin
+2861650,Nürnberg,Nuernberg,DE,Germany,02,49.45421,11.07752,515543,Europe/Berlin
+2910831,Hannover,Hannover,DE,Germany,06,52.37052,9.73322,515140,Europe/Berlin
+2879139,Leipzig,Leipzig,DE,Germany,13,51.33962,12.37129,504971,Europe/Berlin
+2934691,Duisburg,Duisburg,DE,Germany,07,51.43247,6.76516,504358,Europe/Berlin
+2911285,Wandsbek,Wandsbek,DE,Germany,04,53.58334,10.08305,411422,Europe/Berlin
+2947416,Bochum,Bochum,DE,Germany,07,51.48165,7.21648,385729,Europe/Berlin
+2805753,Wuppertal,Wuppertal,DE,Germany,07,51.25627,7.14816,360797,Europe/Berlin
+2949186,Bielefeld,Bielefeld,DE,Germany,07,52.03333,8.53333,331906,Europe/Berlin
+2946447,Bonn,Bonn,DE,Germany,07,50.73438,7.09549,330579,Europe/Berlin
+2298890,Kumasi,Kumasi,GH,Ghana,02,6.68848,-1.62443,2544530,Africa/Accra
+2306104,Accra,Accra,GH,Ghana,01,5.55602,-0.1969,1963264,Africa/Accra
+2294877,Tamale,Tamale,GH,Ghana,06,9.40079,-0.8393,464316,Africa/Accra
+2294915,Takoradi,Takoradi,GH,Ghana,09,4.89816,-1.76029,389114,Africa/Accra
+11808941,Sekondi,Sekondi,GH,Ghana,09,4.93422,-1.71454,285506,Africa/Accra
+2302357,Cape Coast,Cape Coast,GH,Ghana,04,5.10535,-1.2466,212426,Africa/Accra
+2306079,Atsiaman,Atsiaman,GH,Ghana,01,5.69775,-0.32824,202932,Africa/Accra
+2304121,Ashaiman,Ashaiman,GH,Ghana,01,5.69951,-0.03484,190972,Africa/Accra
+2296606,Obuase,Obuase,GH,Ghana,02,6.20228,-1.66796,179604,Africa/Accra
+2294700,Tema,Tema,GH,Ghana,01,5.6698,-0.01657,155782,Africa/Accra
+2299522,Koforidua,Koforidua,GH,Ghana,05,6.09408,-0.25913,151255,Africa/Accra
+2294665,Teshi Old Town,Teshi Old Town,GH,Ghana,01,5.58365,-0.10722,144013,Africa/Accra
+2295458,Sekondi-Takoradi,Sekondi-Takoradi,GH,Ghana,09,4.92678,-1.75773,138872,Africa/Accra
+2300379,Ho,Ho,GH,Ghana,08,6.60084,0.4713,130701,Africa/Accra
+2304848,Amanfrom,Amanfrom,GH,Ghana,01,5.53532,-0.39827,119467,Africa/Accra
+2298330,Medina Estates,Medina Estates,GH,Ghana,01,5.6658,-0.16307,101207,Africa/Accra
+2294308,Twifu Praso,Twifu Praso,GH,Ghana,04,5.61411,-1.5502,100851,Africa/Accra
+2300182,Japekrom,Japekrom,GH,Ghana,13,7.5758,-2.78516,96000,Africa/Accra
+11205476,Tema New Town,Tema New Town,GH,Ghana,01,5.65396,0.0264,95837,Africa/Accra
+2295021,Sunyani,Sunyani,GH,Ghana,13,7.33991,-2.32676,92825,Africa/Accra
+264371,Athens,Athens,GR,Greece,ESYE31,37.98376,23.72784,664046,Europe/Athens
+734077,Thessaloníki,Thessaloniki,GR,Greece,ESYE12,40.64072,22.93493,317778,Europe/Athens
+255683,Pátra,Patra,GR,Greece,ESYE23,38.2462,21.73508,168034,Europe/Athens
+255274,Piraeus,Piraeus,GR,Greece,ESYE31,37.94203,23.64619,163688,Europe/Athens
+258576,Lárisa,Larisa,GR,Greece,ESYE14,39.62847,22.42112,146926,Europe/Athens
+255524,Peristéri,Peristeri,GR,Greece,ESYE31,38.01539,23.69187,139981,Europe/Athens
+261745,Irákleion,Irakleion,GR,Greece,ESYE43,35.32787,25.14341,137154,Europe/Athens
+261414,Kallithéa,Kallithea,GR,Greece,ESYE31,37.95,23.7,100641,Europe/Athens
+265488,Acharnés,Acharnes,GR,Greece,ESYE31,38.08333,23.73333,99346,Europe/Athens
+736083,Kalamariá,Kalamaria,GR,Greece,ESYE12,40.5825,22.95028,91518,Europe/Athens
+256429,Níkaia,Nikaia,GR,Greece,ESYE31,37.96667,23.65,89380,Europe/Athens
+262036,Glyfáda,Glyfada,GR,Greece,ESYE31,37.86289,23.75802,87305,Europe/Athens
+251833,Volos,Volos,GR,Greece,ESYE14,39.36923,22.94769,86048,Europe/Athens
+256601,Ílion,Ilion,GR,Greece,ESYE31,38.03333,23.7,84793,Europe/Athens
+8310138,Ilioúpoli,Ilioupoli,GR,Greece,ESYE31,37.93149,23.76779,78153,Europe/Athens
+260204,Keratsíni,Keratsini,GR,Greece,ESYE31,37.9625,23.61972,77077,Europe/Athens
+736291,Évosmos,Evosmos,GR,Greece,ESYE12,40.67056,22.90833,74686,Europe/Athens
+260172,Khalándrion,Khalandrion,GR,Greece,ESYE31,38.02369,23.80068,74192,Europe/Athens
+256575,Néa Smýrni,Nea Smyrni,GR,Greece,ESYE31,37.94504,23.71416,73076,Europe/Athens
+265243,Maroúsi,Marousi,GR,Greece,ESYE31,38.05,23.8,72333,Europe/Athens
+2422465,Conakry,Conakry,GN,Guinea,04,9.53795,-13.67729,1928389,Africa/Conakry
+2422488,Camayenne,Camayenne,GN,Guinea,04,9.535,-13.68778,1871242,Africa/Conakry
+2416969,Nzérékoré,Nzerekore,GN,Guinea,N,7.75624,-8.8179,226426,Africa/Conakry
+2419992,Kankan,Kankan,GN,Guinea,K,10.38542,-9.30568,221428,Africa/Conakry
+2417786,Manéah,Maneah,GN,Guinea,D,9.73333,-13.41667,194297,Africa/Conakry
+2421535,Dubréka,Dubreka,GN,Guinea,D,9.79111,-13.52333,182296,Africa/Conakry
+2419533,Kindia,Kindia,GN,Guinea,D,10.05692,-12.86576,161024,Africa/Conakry
+2415703,Siguiri,Siguiri,GN,Guinea,K,11.42282,-9.16852,148018,Africa/Conakry
+2419472,Kissidougou,Kissidougou,GN,Guinea,F,9.1848,-10.09987,116019,Africa/Conakry
+2416402,Kamsar,Kamsar,GN,Guinea,B,10.65,-14.61667,113350,Africa/Conakry
+2418362,Labé,Labe,GN,Guinea,L,11.31823,-12.28332,107571,Africa/Conakry
+2420562,Gueckedou,Gueckedou,GN,Guinea,N,8.56744,-10.1336,79140,Africa/Conakry
+2417833,Mamou,Mamou,GN,Guinea,M,10.37546,-12.09148,79109,Africa/Conakry
+2422457,Coyah,Coyah,GN,Guinea,D,9.70643,-13.38465,77103,Africa/Conakry
+2421273,Faranah,Faranah,GN,Guinea,F,10.04036,-10.74343,70181,Africa/Conakry
+2417988,Macenta,Macenta,GN,Guinea,N,8.54351,-9.47099,68020,Africa/Conakry
+2420884,Fria,Fria,GN,Guinea,B,10.36676,-13.58253,64169,Africa/Conakry
+2422924,Boké,Boke,GN,Guinea,B,10.93217,-14.29055,63736,Africa/Conakry
+2416085,Sangarédi,Sangaredi,GN,Guinea,B,11.1,-13.76667,54824,Africa/Conakry
+2374775,Bissau,Bissau,GW,Guinea-Bissau,11,11.86357,-15.59767,439704,Africa/Bissau
+3054643,Budapest,Budapest,HU,Hungary,05,47.49835,19.04045,1741041,Europe/Budapest
+721472,Debrecen,Debrecen,HU,Hungary,10,47.53167,21.62444,202402,Europe/Budapest
+715429,Szeged,Szeged,HU,Hungary,06,46.253,20.14824,160766,Europe/Budapest
+717582,Miskolc,Miskolc,HU,Hungary,04,48.10327,20.77806,154521,Europe/Budapest
+3046526,Pécs,Pecs,HU,Hungary,02,46.07617,18.22814,145347,Europe/Budapest
+7284824,Budapest XI. kerület,Budapest XI. keruelet,HU,Hungary,05,47.47603,19.03605,139049,Europe/Budapest
+3042430,Zugló,Zuglo,HU,Hungary,05,47.51758,19.10549,130000,Europe/Budapest
+3052009,Győr,Gyor,HU,Hungary,09,47.68333,17.63512,129301,Europe/Budapest
+7284842,Budapest III. kerület,Budapest III. keruelet,HU,Hungary,05,47.54157,19.04501,123723,Europe/Budapest
+716935,Nyíregyháza,Nyiregyhaza,HU,Hungary,18,47.95539,21.71671,117689,Europe/Budapest
+7284830,Budapest XIII. kerület,Budapest XIII. keruelet,HU,Hungary,05,47.52978,19.08068,113531,Europe/Budapest
+3050434,Kecskemét,Kecskemet,HU,Hungary,01,46.90618,19.69128,109847,Europe/Budapest
+3044774,Székesfehérvár,Szekesfehervar,HU,Hungary,08,47.18995,18.41034,101600,Europe/Budapest
+7284831,Budapest IV. kerület,Budapest IV. keruelet,HU,Hungary,05,47.56182,19.08909,98374,Europe/Budapest
+7284836,Budapest XVIII. kerület,Budapest XVIII. keruelet,HU,Hungary,05,47.44417,19.17595,93225,Europe/Budapest
+7284843,Budapest II. kerület,Budapest II. keruelet,HU,Hungary,05,47.51984,19.02218,88729,Europe/Budapest
+7284826,Budapest VIII. kerület,Budapest VIII. keruelet,HU,Hungary,05,47.48919,19.07012,82222,Europe/Budapest
+7284832,Budapest XV. kerület,Budapest XV. keruelet,HU,Hungary,05,47.56263,19.11681,80218,Europe/Budapest
+3049646,Kőbánya,Kobanya,HU,Hungary,05,47.48427,19.13913,78414,Europe/Budapest
+7284841,Budapest XVII. kerület,Budapest XVII. keruelet,HU,Hungary,05,47.47997,19.25388,78250,Europe/Budapest
+3413829,Reykjavík,Reykjavik,IS,Iceland,39,64.13548,-21.89541,118918,Atlantic/Reykjavik
+112931,Tehran,Tehran,IR,Iran,26,35.69439,51.42151,7153309,Asia/Tehran
+124665,Mashhad,Mashhad,IR,Iran,42,36.29807,59.60567,2307177,Asia/Tehran
+418863,Isfahan,Isfahan,IR,Iran,28,32.65246,51.67462,1547164,Asia/Tehran
+128747,Karaj,Karaj,IR,Iran,44,35.83266,50.99155,1448075,Asia/Tehran
+113646,Tabriz,Tabriz,IR,Iran,33,38.08,46.2919,1424641,Asia/Tehran
+115019,Shiraz,Shiraz,IR,Iran,07,29.61031,52.53113,1249942,Asia/Tehran
+119208,Qom,Qom,IR,Iran,39,34.6401,50.8764,900000,Asia/Tehran
+144448,Ahvaz,Ahvaz,IR,Iran,15,31.31901,48.6842,841145,Asia/Tehran
+10630176,Pasragad Branch,Pasragad Branch,IR,Iran,09,34.77772,48.47168,787878,Asia/Tehran
+128226,Kermanshah,Kermanshah,IR,Iran,13,34.31417,47.065,621100,Asia/Tehran
+118743,Rasht,Rasht,IR,Iran,08,37.27611,49.58862,594590,Asia/Tehran
+128234,Kerman,Kerman,IR,Iran,29,30.28321,57.07879,577514,Asia/Tehran
+121801,Orūmīyeh,Orumiyeh,IR,Iran,01,37.55274,45.07605,577307,Asia/Tehran
+1159301,Zahedan,Zahedan,IR,Iran,04,29.4963,60.8629,551980,Asia/Tehran
+132144,Hamadān,Hamadan,IR,Iran,09,34.79922,48.51456,528256,Asia/Tehran
+14256,Āzādshahr,Azadshahr,IR,Iran,09,34.79049,48.57011,514102,Asia/Tehran
+143127,Arāk,Arak,IR,Iran,34,34.09493,49.69809,503647,Asia/Tehran
+111822,Yazd,Yazd,IR,Iran,40,31.89722,54.3675,477905,Asia/Tehran
+449504,Eslamshahr,Eslamshahr,IR,Iran,26,35.55222,51.23504,450000,Asia/Tehran
+143083,Ardabīl,Ardabil,IR,Iran,32,38.2498,48.2933,410753,Asia/Tehran
+98182,Baghdad,Baghdad,IQ,Iraq,07,33.34058,44.40088,7216000,Asia/Baghdad
+99071,Al Mawşil al Jadīdah,Al Mawsil al Jadidah,IQ,Iraq,15,36.33271,43.10555,2065597,Asia/Baghdad
+388349,Al Başrah al Qadīmah,Al Basrah al Qadimah,IQ,Iraq,02,30.50316,47.81507,2015483,Asia/Baghdad
+99072,Mosul,Mosul,IQ,Iraq,15,36.335,43.11889,1683000,Asia/Baghdad
+95446,Erbil,Erbil,IQ,Iraq,11,36.19117,44.00943,1612700,Asia/Baghdad
+99532,Basrah,Basrah,IQ,Iraq,02,30.50852,47.7804,1326564,Asia/Baghdad
+94824,Karbala,Karbala,IQ,Iraq,12,32.61603,44.02488,1218732,Asia/Baghdad
+94787,Kirkuk,Kirkuk,IQ,Iraq,13,35.46806,44.39222,1031000,Asia/Baghdad
+100077,Abū Ghurayb,Abu Ghurayb,IQ,Iraq,07,33.30563,44.18477,900000,Asia/Baghdad
+98463,As Sulaymānīyah,As Sulaymaniyah,IQ,Iraq,05,35.56496,45.4329,878146,Asia/Baghdad
+98854,Nasiriyah,Nasiriyah,IQ,Iraq,09,31.05799,46.25726,558400,Asia/Baghdad
+98860,Najaf,Najaf,IQ,Iraq,17,32.02594,44.34625,482576,Asia/Baghdad
+99347,Al Ḩillah,Al Hillah,IQ,Iraq,06,32.46367,44.41963,455700,Asia/Baghdad
+99100,Al Maḩmūdīyah,Al Mahmudiyah,IQ,Iraq,07,33.06221,44.36564,350000,Asia/Baghdad
+96994,Dihok,Dihok,IQ,Iraq,08,36.86608,42.9879,340900,Asia/Baghdad
+99608,Al ‘Amārah,Al 'Amarah,IQ,Iraq,14,31.83561,47.14483,323302,Asia/Baghdad
+99762,Ad Dīwānīyah,Ad Diwaniyah,IQ,Iraq,04,31.99289,44.92552,318801,Asia/Baghdad
+99131,Al Kūt,Al Kut,IQ,Iraq,16,32.5128,45.81817,315162,Asia/Baghdad
+98993,Al Qurnah,Al Qurnah,IQ,Iraq,02,31.01547,47.43362,286073,Asia/Baghdad
+99106,Al Madīnah,Al Madinah,IQ,Iraq,02,30.96324,47.26998,255000,Asia/Baghdad
+2964574,Dublin,Dublin,IE,Ireland,L,53.33306,-6.24889,1024027,Europe/Dublin
+6697759,South Dublin,South Dublin,IE,Ireland,L,53.29026,-6.34151,278749,Europe/Dublin
+2965140,Cork,Cork,IE,Ireland,M,51.89797,-8.47061,190384,Europe/Dublin
+2962943,Limerick,Limerick,IE,Ireland,M,52.66472,-8.62306,94192,Europe/Dublin
+2964180,Galway,Galway,IE,Ireland,C,53.27245,-9.05095,83456,Europe/Dublin
+2961284,Tallaght,Tallaght,IE,Ireland,L,53.2859,-6.37344,80339,Europe/Dublin
+2960992,Waterford,Waterford,IE,Ireland,M,52.25833,-7.11194,53504,Europe/Dublin
+281184,Jerusalem,Jerusalem,IL,Israel,06,31.76904,35.21633,971800,Asia/Jerusalem
+293397,Tel Aviv,Tel Aviv,IL,Israel,05,32.08088,34.78057,432892,Asia/Jerusalem
+7498240,West Jerusalem,West Jerusalem,IL,Israel,06,31.78199,35.21961,400000,Asia/Jerusalem
+294801,Haifa,Haifa,IL,Israel,04,32.81303,34.99928,285316,Asia/Jerusalem
+293703,Rishon LeTsiyyon,Rishon LeTsiyyon,IL,Israel,02,31.97102,34.78939,258535,Asia/Jerusalem
+293918,Petaẖ Tiqva,Petah Tiqva,IL,Israel,02,32.08707,34.88747,253529,Asia/Jerusalem
+294071,Netanya,Netanya,IL,Israel,02,32.33291,34.85992,228204,Asia/Jerusalem
+295629,Ashdod,Ashdod,IL,Israel,01,31.79213,34.64966,226838,Asia/Jerusalem
+295514,Bnei Brak,Bnei Brak,IL,Israel,05,32.08074,34.8338,214444,Asia/Jerusalem
+294751,H̱olon,Holon,IL,Israel,05,32.01034,34.77918,196282,Asia/Jerusalem
+295530,Beersheba,Beersheba,IL,Israel,01,31.25181,34.7913,186600,Asia/Jerusalem
+293788,Ramat Gan,Ramat Gan,IL,Israel,05,32.08227,34.81065,170822,Asia/Jerusalem
+293725,Reẖovot,Rehovot,IL,Israel,02,31.89421,34.81199,149392,Asia/Jerusalem
+295620,Ashkelon,Ashkelon,IL,Israel,01,31.66926,34.57149,144073,Asia/Jerusalem
+295548,Bat Yam,Bat Yam,IL,Israel,05,32.02379,34.75185,129012,Asia/Jerusalem
+295432,Bet Shemesh,Bet Shemesh,IL,Israel,06,31.73072,34.99293,124957,Asia/Jerusalem
+294514,Kfar Saba,Kfar Saba,IL,Israel,02,32.175,34.90694,110456,Asia/Jerusalem
+293253,Jaffa,Jaffa,IL,Israel,05,32.05043,34.75224,100000,Asia/Jerusalem
+294778,Herzliya,Herzliya,IL,Israel,05,32.16627,34.82536,97470,Asia/Jerusalem
+294946,Hadera,Hadera,IL,Israel,04,32.44192,34.9039,97335,Asia/Jerusalem
+3169070,Rome,Rome,IT,Italy,07,41.89193,12.51133,2318895,Europe/Rome
+3173435,Milan,Milan,IT,Italy,09,45.46427,9.18951,1371498,Europe/Rome
+3172394,Naples,Naples,IT,Italy,04,40.85216,14.26811,909048,Europe/Rome
+3165524,Turin,Turin,IT,Italy,12,45.07049,7.68682,847287,Europe/Rome
+2523920,Palermo,Palermo,IT,Italy,15,38.1166,13.3636,648260,Europe/Rome
+3176219,Genoa,Genoa,IT,Italy,08,44.40478,8.94439,580097,Europe/Rome
+3181928,Bologna,Bologna,IT,Italy,05,44.49381,11.33875,394843,Europe/Rome
+3176959,Florence,Florence,IT,Italy,16,43.77925,11.24626,367150,Europe/Rome
+3182351,Bari,Bari,IT,Italy,13,41.12066,16.86982,316491,Europe/Rome
+2525068,Catania,Catania,IT,Italy,15,37.49223,15.07041,311584,Europe/Rome
+3164527,Verona,Verona,IT,Italy,20,45.43854,10.9938,258031,Europe/Rome
+2524170,Messina,Messina,IT,Italy,15,38.19394,15.55256,219948,Europe/Rome
+3165185,Trieste,Trieste,IT,Italy,06,45.64953,13.77678,204338,Europe/Rome
+3171728,Padova,Padova,IT,Italy,20,45.40797,11.88586,203725,Europe/Rome
+3181554,Brescia,Brescia,IT,Italy,09,45.53558,10.21472,200423,Europe/Rome
+3165926,Taranto,Taranto,IT,Italy,13,40.46438,17.24707,198585,Europe/Rome
+3171457,Parma,Parma,IT,Italy,05,44.79935,10.32618,198292,Europe/Rome
+3169921,Prato,Prato,IT,Italy,16,43.8805,11.09699,195089,Europe/Rome
+3173331,Modena,Modena,IT,Italy,05,44.64783,10.92539,184732,Europe/Rome
+2523630,Reggio Calabria,Reggio Calabria,IT,Italy,03,38.11047,15.66129,182455,Europe/Rome
+250441,Amman,Amman,JO,Jordan,16,31.95522,35.94503,1275857,Asia/Amman
+250090,Zarqa,Zarqa,JO,Jordan,17,32.07275,36.08796,792665,Asia/Amman
+248946,Irbid,Irbid,JO,Jordan,18,32.55556,35.85,569068,Asia/Amman
+7838895,Russeifa,Russeifa,JO,Jordan,17,32.01778,36.04639,268237,Asia/Amman
+248583,Ḩayy Khildā,Hayy Khilda,JO,Jordan,16,31.99202,35.84002,251000,Asia/Amman
+248460,Khuraybat as Sūq,Khuraybat as Suq,JO,Jordan,16,31.87913,35.92098,186158,Asia/Amman
+246013,Wādī as Sīr,Wadi as Sir,JO,Jordan,16,31.9545,35.81831,181212,Asia/Amman
+250336,Ar Ramthā,Ar Ramtha,JO,Jordan,18,32.55873,36.00816,155693,Asia/Amman
+13286467,Ṣuwayliḥ,Suwaylih,JO,Jordan,02,32.0221,35.84394,151016,Asia/Amman
+250799,‘Ajlūn,'Ajlun,JO,Jordan,20,32.33326,35.75279,125557,Asia/Amman
+250258,As Salţ,As Salt,JO,Jordan,02,32.03917,35.72722,107874,Asia/Amman
+250774,Aqaba,Aqaba,JO,Jordan,21,29.52667,35.00778,95048,Asia/Amman
+11428685,Rukban,Rukban,JO,Jordan,15,33.31405,38.70342,85000,Asia/Amman
+13308287,Marj Al Hamam,Marj Al Hamam,JO,Jordan,16,31.90274,35.84645,82788,Asia/Amman
+248370,Mādabā,Madaba,JO,Jordan,23,31.71599,35.79392,82335,Asia/Amman
+250582,Mafraq,Mafraq,JO,Jordan,15,32.34289,36.20804,57118,Asia/Amman
+10861986,Az̧ Z̧ulayl,Az Zulayl,JO,Jordan,17,32.1208,36.28008,50931,Asia/Amman
+248382,Ma'an,Ma'an,JO,Jordan,19,30.19624,35.73405,50350,Asia/Amman
+184745,Nairobi,Nairobi,KE,Kenya,05,-1.28333,36.81667,4397073,Africa/Nairobi
+195272,Kakamega,Kakamega,KE,Kenya,20,0.28422,34.75229,1867579,Africa/Nairobi
+186301,Mombasa,Mombasa,KE,Kenya,37,-4.05466,39.66359,1208333,Africa/Nairobi
+184622,Nakuru,Nakuru,KE,Kenya,39,-0.30719,36.07225,570674,Africa/Nairobi
+181032,Ruiru,Ruiru,KE,Kenya,22,-1.14665,36.96087,490120,Africa/Nairobi
+198629,Eldoret,Eldoret,KE,Kenya,52,0.52036,35.26993,475716,Africa/Nairobi
+191245,Kisumu,Kisumu,KE,Kenya,26,-0.10221,34.76171,397957,Africa/Nairobi
+192126,Kikuyu,Kikuyu,KE,Kenya,22,-1.24627,36.66291,323881,Africa/Nairobi
+179330,Thika,Thika,KE,Kenya,05,-1.03326,37.06933,251407,Africa/Nairobi
+184707,Naivasha,Naivasha,KE,Kenya,39,-0.71383,36.43261,198444,Africa/Nairobi
+193624,Karuri,Karuri,KE,Kenya,22,-1.17641,36.7564,194342,Africa/Nairobi
+193627,Karuri,Karuri,KE,Kenya,38,-0.7,37.18333,194342,Africa/Nairobi
+189723,Ongata Rongai,Ongata Rongai,KE,Kenya,19,-1.3953,36.764,172569,Africa/Nairobi
+8449763,Lang'ata,Lang'ata,KE,Kenya,05,-1.3666,36.73324,172569,Africa/Nairobi
+197745,Garissa,Garissa,KE,Kenya,16,-0.45275,39.64601,163399,Africa/Nairobi
+191220,Kitale,Kitale,KE,Kenya,50,1.01572,35.00622,162174,Africa/Nairobi
+189386,Limuru,Limuru,KE,Kenya,22,-1.1136,36.64205,159314,Africa/Nairobi
+8299780,Juja,Juja,KE,Kenya,22,-1.10148,37.0132,156041,Africa/Nairobi
+7931934,Kitengela,Kitengela,KE,Kenya,19,-1.47612,36.96144,154436,Africa/Nairobi
+192710,Kiambu,Kiambu,KE,Kenya,22,-1.17139,36.83556,147870,Africa/Nairobi
+285839,Al Aḩmadī,Al Ahmadi,KW,Kuwait,04,29.07694,48.08389,637411,Asia/Kuwait
+285629,Ḩawallī,Hawalli,KW,Kuwait,08,29.33278,48.02861,164212,Asia/Kuwait
+285704,As Sālimīyah,As Salimiyah,KW,Kuwait,08,29.33389,48.07611,147649,Asia/Kuwait
+412800,Şabāḩ as Sālim,Sabah as Salim,KW,Kuwait,09,29.25722,48.05722,139163,Asia/Kuwait
+285815,Al Farwānīyah,Al Farwaniyah,KW,Kuwait,07,29.2775,47.95861,86525,Asia/Kuwait
+285811,Al Faḩāḩīl,Al Fahahil,KW,Kuwait,04,29.0825,48.13028,68290,Asia/Kuwait
+285787,Kuwait City,Kuwait City,KW,Kuwait,02,29.367,47.97429,60064,Asia/Kuwait
+285726,Ar Rumaythīyah,Ar Rumaythiyah,KW,Kuwait,08,29.31167,48.07417,58135,Asia/Kuwait
+285728,Ar Riqqah,Ar Riqqah,KW,Kuwait,04,29.14583,48.09472,52068,Asia/Kuwait
+456172,Riga,Riga,LV,Latvia,25,56.946,24.10589,742572,Europe/Riga
+460413,Daugavpils,Daugavpils,LV,Latvia,06,55.88333,26.53333,77799,Europe/Riga
+457954,Liepāja,Liepaja,LV,Latvia,16,56.50474,21.01085,66680,Europe/Riga
+459279,Jelgava,Jelgava,LV,Latvia,11,56.65,23.71278,54701,Europe/Riga
+459201,Jūrmala,Jurmala,LV,Latvia,13,56.968,23.77038,52154,Europe/Riga
+276781,Beirut,Beirut,LB,Lebanon,04,33.89332,35.50157,1916100,Asia/Beirut
+268743,Ra’s Bayrūt,Ra's Bayrut,LB,Lebanon,04,33.9,35.48333,1251739,Asia/Beirut
+266826,Tripoli,Tripoli,LB,Lebanon,09,34.43352,35.84415,229398,Asia/Beirut
+268064,Sidon,Sidon,LB,Lebanon,06,33.55751,35.37148,163554,Asia/Beirut
+267008,Tyre,Tyre,LB,Lebanon,06,33.27333,35.19389,135204,Asia/Beirut
+280425,Aley,Aley,LB,Lebanon,05,33.80528,35.6,130000,Asia/Beirut
+278913,Nabatîyé et Tahta,Nabatiye et Tahta,LB,Lebanon,07,33.37889,35.48389,120000,Asia/Beirut
+274874,Habboûch,Habbouch,LB,Lebanon,07,33.40729,35.48169,98433,Asia/Beirut
+273140,Jounieh,Jounieh,LB,Lebanon,05,33.98083,35.61778,96315,Asia/Beirut
+266045,Zahlé,Zahle,LB,Lebanon,08,33.84675,35.90203,78145,Asia/Beirut
+280155,Ghazieh,Ghazieh,LB,Lebanon,06,33.5175,35.36889,50000,Asia/Beirut
+932505,Maseru,Maseru,LS,Lesotho,14,-29.31667,27.48333,359753,Africa/Maseru
+932521,Maputsoe,Maputsoe,LS,Lesotho,12,-28.8866,27.89915,61916,Africa/Maseru
+2274895,Monrovia,Monrovia,LR,Liberia,14,6.30054,-10.7969,1542549,Africa/Monrovia
+2277060,Gbarnga,Gbarnga,LR,Liberia,01,6.99543,-9.47122,86031,Africa/Monrovia
+2278158,Buchanan,Buchanan,LR,Liberia,11,5.87693,-10.04964,75854,Africa/Monrovia
+2277241,Ganta,Ganta,LR,Liberia,09,7.235,-8.98444,63523,Africa/Monrovia
+2276086,Kakata,Kakata,LR,Liberia,17,6.53104,-10.35368,52247,Africa/Monrovia
+2210247,Tripoli,Tripoli,LY,Libya,77,32.88743,13.18733,1302947,Africa/Tripoli
+88319,Benghazi,Benghazi,LY,Libya,69,32.11486,20.06859,757490,Africa/Tripoli
+2214846,Misratah,Misratah,LY,Libya,72,32.37535,15.09254,355657,Africa/Tripoli
+2208485,Zliten,Zliten,LY,Libya,72,32.46739,14.56874,203790,Africa/Tripoli
+2219905,Al Khums,Al Khums,LY,Libya,82,32.64861,14.26191,201943,Africa/Tripoli
+2218970,Az Zāwīyah,Az Zawiyah,LY,Libya,68,32.7571,12.72764,200000,Africa/Tripoli
+2216885,Zawiya,Zawiya,LY,Libya,68,32.75222,12.72778,186123,Africa/Tripoli
+2216349,Janzūr,Janzur,LY,Libya,81,32.81868,13.01727,154389,Africa/Tripoli
+2212775,Sabha,Sabha,LY,Libya,75,27.03766,14.42832,149329,Africa/Tripoli
+81302,Tobruk,Tobruk,LY,Libya,79,32.08963,23.95385,141499,Africa/Tripoli
+89113,Ajdabiya,Ajdabiya,LY,Libya,83,30.75545,20.22625,131773,Africa/Tripoli
+2219701,Al Ajaylat,Al Ajaylat,LY,Libya,67,32.75718,12.37633,130546,Africa/Tripoli
+89055,Al Bayḑā’,Al Bayda',LY,Libya,63,32.76272,21.75506,129439,Africa/Tripoli
+2219960,Al Jadīd,Al Jadid,LY,Libya,75,27.05,14.4,126386,Africa/Tripoli
+2210554,Sirte,Sirte,LY,Libya,76,31.20892,16.58866,106705,Africa/Tripoli
+87205,Darnah,Darnah,LY,Libya,70,32.76704,22.63669,102581,Africa/Tripoli
+2219936,Al Jumayl,Al Jumayl,LY,Libya,67,32.85286,12.0612,102000,Africa/Tripoli
+2213618,Qaşr Bin Ghashīr,Qasr Bin Ghashir,LY,Libya,77,32.68333,13.18333,100069,Africa/Tripoli
+2210394,Tājūrā’,Tajura',LY,Libya,77,32.88167,13.35056,100000,Africa/Tripoli
+88903,Al Marj,Al Marj,LY,Libya,66,32.49257,20.82909,85315,Africa/Tripoli
+593116,Vilnius,Vilnius,LT,Lithuania,65,54.68916,25.2798,542366,Europe/Vilnius
+598316,Kaunas,Kaunas,LT,Lithuania,57,54.90156,23.90909,289380,Europe/Vilnius
+598098,Klaipėda,Klaipeda,LT,Lithuania,58,55.7068,21.13912,172292,Europe/Vilnius
+594739,Šiauliai,Siauliai,LT,Lithuania,61,55.93333,23.31667,99462,Europe/Vilnius
+596128,Panevėžys,Panevezys,LT,Lithuania,60,55.73186,24.35983,85885,Europe/Vilnius
+6618486,Dainava (Kaunas),Dainava (Kaunas),LT,Lithuania,57,54.91525,23.96831,70000,Europe/Vilnius
+2960316,Luxembourg,Luxembourg,LU,Luxembourg,LU,49.60982,6.13268,76684,Europe/Luxembourg
+1070940,Antananarivo,Antananarivo,MG,Madagascar,11,-18.91368,47.53613,1349501,Indian/Antananarivo
+1053384,Toamasina,Toamasina,MG,Madagascar,31,-18.1492,49.40234,345107,Indian/Antananarivo
+1069166,Antsirabe,Antsirabe,MG,Madagascar,12,-19.86586,47.03333,260907,Indian/Antananarivo
+1062663,Mahajanga,Mahajanga,MG,Madagascar,41,-15.71667,46.31667,260556,Indian/Antananarivo
+1064890,Fianarantsoa,Fianarantsoa,MG,Madagascar,21,-21.45267,47.08569,203105,Indian/Antananarivo
+1055429,Toliara,Toliara,MG,Madagascar,51,-23.35,43.66667,178725,Indian/Antananarivo
+1069129,Antsiranana,Antsiranana,MG,Madagascar,71,-12.31732,49.29188,136959,Indian/Antananarivo
+1056899,Sambava,Sambava,MG,Madagascar,72,-14.26667,50.16667,89003,Indian/Antananarivo
+1064121,Imerintsiatosika,Imerintsiatosika,MG,Madagascar,13,-18.98333,47.31667,74085,Indian/Antananarivo
+1071296,Antalaha,Antalaha,MG,Madagascar,72,-14.90033,50.27876,71898,Indian/Antananarivo
+1055433,Tôlanaro,Tolanaro,MG,Madagascar,53,-25.03249,46.98329,71258,Indian/Antananarivo
+1070661,Antanifotsy,Antanifotsy,MG,Madagascar,12,-19.65,47.31667,70626,Indian/Antananarivo
+1079048,Ambovombe,Ambovombe,MG,Madagascar,52,-25.17838,46.08722,69265,Indian/Antananarivo
+1082243,Ambilobe,Ambilobe,MG,Madagascar,71,-13.2,49.05,66029,Indian/Antananarivo
+1083724,Ambanja,Ambanja,MG,Madagascar,71,-13.669,48.453,63884,Indian/Antananarivo
+1058532,Moramanga,Moramanga,MG,Madagascar,33,-18.94948,48.23007,60456,Indian/Antananarivo
+1069579,Antsalova,Antsalova,MG,Madagascar,44,-18.66667,44.61667,58280,Indian/Antananarivo
+1058381,Morondava,Morondava,MG,Madagascar,54,-20.28869,44.31782,56671,Indian/Antananarivo
+1076105,Hell-Ville,Hell-Ville,MG,Madagascar,71,-13.39718,48.26663,53219,Indian/Antananarivo
+1063858,Ivato,Ivato,MG,Madagascar,11,-18.8,47.48333,52376,Indian/Antananarivo
+927967,Lilongwe,Lilongwe,MW,Malawi,C,-13.96692,33.78725,1115815,Africa/Blantyre
+931755,Blantyre,Blantyre,MW,Malawi,S,-15.78499,35.00854,902588,Africa/Blantyre
+925475,Mzuzu,Mzuzu,MW,Malawi,N,-11.46556,34.02071,249564,Africa/Blantyre
+923295,Zomba,Zomba,MW,Malawi,S,-15.38596,35.3188,118440,Africa/Blantyre
+235715,Karonga,Karonga,MW,Malawi,N,-9.93333,33.93333,69486,Africa/Blantyre
+928534,Kasungu,Kasungu,MW,Malawi,C,-13.03333,33.48333,66152,Africa/Blantyre
+927246,Mangochi,Mangochi,MW,Malawi,S,-14.47815,35.26448,60338,Africa/Blantyre
+2460596,Bamako,Bamako,ML,Mali,01,12.60915,-7.97522,4227569,Africa/Bamako
+2451185,Sikasso,Sikasso,ML,Mali,06,11.31755,-5.66654,349324,Africa/Bamako
+2454268,Koutiala,Koutiala,ML,Mali,06,12.38723,-5.46507,218031,Africa/Bamako
+2451478,Ségou,Segou,ML,Mali,05,13.44032,-6.25947,205787,Africa/Bamako
+2455518,Kayes,Kayes,ML,Mali,03,14.44776,-11.44393,194716,Africa/Bamako
+2453348,Mopti,Mopti,ML,Mali,04,14.4843,-4.18296,186187,Africa/Bamako
+2455914,Kalaban Koro,Kalaban Koro,ML,Mali,07,12.57329,-8.02907,148247,Africa/Bamako
+2457163,Gao,Gao,ML,Mali,09,16.27167,-0.04472,133110,Africa/Bamako
+2455558,Kati,Kati,ML,Mali,07,12.74409,-8.07257,130254,Africa/Bamako
+2451778,San,San,ML,Mali,05,13.29701,-4.89627,103227,Africa/Bamako
+2459775,Bougouni,Bougouni,ML,Mali,06,11.41769,-7.48323,90234,Africa/Bamako
+2449067,Timbuktu,Timbuktu,ML,Mali,08,16.77348,-3.00742,84208,Africa/Bamako
+2455216,Kita,Kita,ML,Mali,03,13.03885,-9.48817,75598,Africa/Bamako
+2594078,Dialakorodji,Dialakorodji,ML,Mali,07,12.70354,-7.96463,70619,Africa/Bamako
+2454530,Koulikoro,Koulikoro,ML,Mali,07,12.86273,-7.55985,64128,Africa/Bamako
+2457763,Fana,Fana,ML,Mali,07,12.7787,-6.9564,56809,Africa/Bamako
+2453662,Markala,Markala,ML,Mali,05,13.68427,-6.07352,53738,Africa/Bamako
+2452655,Niono,Niono,ML,Mali,05,14.25054,-5.98679,52584,Africa/Bamako
+2452651,Nioro,Nioro,ML,Mali,03,15.23074,-9.59356,51933,Africa/Bamako
+2457410,Pèlèngana,Pelengana,ML,Mali,05,13.4274,-6.222,50552,Africa/Bamako
+2377450,Nouakchott,Nouakchott,MR,Mauritania,,18.08581,-15.9785,1184530,Africa/Nouakchott
+2377457,Nouadhibou,Nouadhibou,MR,Mauritania,08,20.94188,-17.03842,146048,Africa/Nouakchott
+2378538,Kiffa,Kiffa,MR,Mauritania,03,16.62073,-11.40208,62051,Africa/Nouakchott
+11496397,Dar Naim,Dar Naim,MR,Mauritania,14,18.10808,-15.92666,61089,Africa/Nouakchott
+2377539,Néma,Nema,MR,Mauritania,01,16.61702,-7.25649,60000,Africa/Nouakchott
+12718654,Mbera,Mbera,MR,Mauritania,01,15.85615,-5.79067,58985,Africa/Nouakchott
+2378736,Kaédi,Kaedi,MR,Mauritania,04,16.15071,-13.50582,56283,Africa/Nouakchott
+2375558,Zouérat,Zouerat,MR,Mauritania,11,22.73542,-12.47134,55183,Africa/Nouakchott
+934154,Port Louis,Port Louis,MU,Mauritius,18,-20.16194,57.49889,155226,Indian/Mauritius
+933945,Vacoas,Vacoas,MU,Mauritius,17,-20.29806,57.47833,115289,Indian/Mauritius
+934765,Beau Bassin-Rose Hill,Beau Bassin-Rose Hill,MU,Mauritius,17,-20.23325,57.46609,111355,Indian/Mauritius
+934570,Curepipe,Curepipe,MU,Mauritius,17,-20.31628,57.52594,78618,Indian/Mauritius
+934131,Quatre Bornes,Quatre Bornes,MU,Mauritius,17,-20.26381,57.4791,77308,Indian/Mauritius
+618426,Chisinau,Chisinau,MD,Moldova,57,47.00902,28.85938,635994,Europe/Chisinau
+617239,Tiraspol,Tiraspol,MD,Moldova,58,46.84275,29.6284,157000,Europe/Chisinau
+618605,Bălţi,Balti,MD,Moldova,60,47.76291,27.92854,125000,Europe/Chisinau
+618577,Bender,Bender,MD,Moldova,62,46.83158,29.47671,110175,Europe/Chisinau
+617486,Rîbniţa,Ribnita,MD,Moldova,58,47.76817,29.01,55455,Europe/Chisinau
+3193044,Podgorica,Podgorica,ME,Montenegro,16,42.44124,19.26309,236852,Europe/Podgorica
+3194494,Nikšić,Niksic,ME,Montenegro,12,42.7731,18.94446,58212,Europe/Podgorica
+2553604,Casablanca,Casablanca,MA,Morocco,06,33.58831,-7.61138,3665954,Africa/Casablanca
+2538475,Rabat,Rabat,MA,Morocco,04,34.01325,-6.83255,1655753,Africa/Casablanca
+2548885,Fes,Fes,MA,Morocco,03,34.03313,-5.00028,1191905,Africa/Casablanca
+2530335,Tangier,Tangier,MA,Morocco,01,35.76727,-5.79975,1035141,Africa/Casablanca
+2542997,Marrakesh,Marrakesh,MA,Morocco,07,31.63416,-7.99994,995871,Africa/Casablanca
+2537763,Salé,Sale,MA,Morocco,04,34.0531,-6.79846,972299,Africa/Casablanca
+2561668,Agadir,Agadir,MA,Morocco,09,30.42018,-9.59815,698310,Africa/Casablanca
+2542715,Meknes,Meknes,MA,Morocco,03,33.89352,-5.54727,568295,Africa/Casablanca
+2540483,Oujda,Oujda,MA,Morocco,02,34.68139,-1.90858,539711,Africa/Casablanca
+2544571,Kenitra,Kenitra,MA,Morocco,04,34.26101,-6.5802,470949,Africa/Casablanca
+2528910,Tétouan,Tetouan,MA,Morocco,01,35.57845,-5.36837,415810,Africa/Casablanca
+2558545,Al Hoceïma,Al Hoceima,MA,Morocco,01,35.25165,-3.93723,395644,Africa/Casablanca
+2529013,Temara,Temara,MA,Morocco,04,33.92866,-6.90656,342345,Africa/Casablanca
+2537881,Safi,Safi,MA,Morocco,07,32.29939,-9.23718,336883,Africa/Casablanca
+2542051,Mohammedia,Mohammedia,MA,Morocco,06,33.68607,-7.38298,227799,Africa/Casablanca
+2544248,Khouribga,Khouribga,MA,Morocco,05,32.88108,-6.9063,214241,Africa/Casablanca
+2550078,El Jadida,El Jadida,MA,Morocco,06,33.25682,-8.50882,212863,Africa/Casablanca
+2555745,Beni Mellal,Beni Mellal,MA,Morocco,05,32.33725,-6.34983,210397,Africa/Casablanca
+10920963,Salé Al Jadida,Sale Al Jadida,MA,Morocco,04,33.99722,-6.74047,200000,Africa/Casablanca
+10374934,Ait Melloul,Ait Melloul,MA,Morocco,09,30.34164,-9.50356,187652,Africa/Casablanca
+1040652,Maputo,Maputo,MZ,Mozambique,11,-25.96553,32.58322,1254837,Africa/Maputo
+1039854,Matola,Matola,MZ,Mozambique,04,-25.96222,32.45889,1198988,Africa/Maputo
+1033356,Nampula,Nampula,MZ,Mozambique,06,-15.11646,39.2666,770379,Africa/Maputo
+1052373,Beira,Beira,MZ,Mozambique,05,-19.84361,34.83889,687764,Africa/Maputo
+1049261,Chimoio,Chimoio,MZ,Mozambique,10,-19.11639,33.48333,422046,Africa/Maputo
+1026014,Tete,Tete,MZ,Mozambique,08,-16.15639,33.58667,357000,Africa/Maputo
+1028434,Quelimane,Quelimane,MZ,Mozambique,09,-17.87861,36.88833,349842,Africa/Maputo
+1043893,Lichinga,Lichinga,MZ,Mozambique,07,-13.31278,35.24056,281341,Africa/Maputo
+1035025,Nacala,Nacala,MZ,Mozambique,06,-14.56257,40.68538,239808,Africa/Maputo
+1028918,Pemba,Pemba,MZ,Mozambique,01,-12.97395,40.51775,232932,Africa/Maputo
+1024694,Mocuba,Mocuba,MZ,Mozambique,09,-16.8375,36.98556,196001,Africa/Maputo
+1045512,Gurúè,Gurue,MZ,Mozambique,09,-15.46694,36.97778,168971,Africa/Maputo
+1024552,Xai-Xai,Xai-Xai,MZ,Mozambique,02,-25.05194,33.64417,154356,Africa/Maputo
+1039536,Maxixe,Maxixe,MZ,Mozambique,03,-23.85972,35.34722,126408,Africa/Maputo
+1041190,Mandimba,Mandimba,MZ,Mozambique,07,-14.3525,35.65056,118922,Africa/Maputo
+1028079,Ressano Garcia,Ressano Garcia,MZ,Mozambique,04,-25.44278,31.99528,110000,Africa/Maputo
+1052944,Angoche,Angoche,MZ,Mozambique,06,-16.2325,39.90861,104540,Africa/Maputo
+1045114,Inhambane,Inhambane,MZ,Mozambique,03,-23.865,35.38333,95388,Africa/Maputo
+1047660,Cuamba,Cuamba,MZ,Mozambique,07,-14.80306,36.53722,91780,Africa/Maputo
+1037125,Montepuez,Montepuez,MZ,Mozambique,01,-13.12556,38.99972,88442,Africa/Maputo
+2440485,Niamey,Niamey,NE,Niger,08,13.51366,2.1098,1323691,Africa/Niamey
+2441291,Maradi,Maradi,NE,Niger,04,13.5,7.10174,361702,Africa/Niamey
+2437798,Zinder,Zinder,NE,Niger,07,13.80716,8.9881,318874,Africa/Niamey
+2439376,Tahoua,Tahoua,NE,Niger,06,14.8888,5.2692,159468,Africa/Niamey
+2448085,Agadez,Agadez,NE,Niger,01,16.97333,7.99111,149549,Africa/Niamey
+2447513,Arlit,Arlit,NE,Niger,01,18.73694,7.38528,106448,Africa/Niamey
+2447938,Alaghsas,Alaghsas,NE,Niger,01,17.0187,8.0168,88561,Africa/Niamey
+2437732,Birni N Konni,Birni N Konni,NE,Niger,06,13.79599,5.25026,85494,Africa/Niamey
+2445488,Dosso,Dosso,NE,Niger,03,13.049,3.1937,79406,Africa/Niamey
+2444489,Gaya,Gaya,NE,Niger,03,11.88435,3.44919,61533,Africa/Niamey
+2438823,Tessaoua,Tessaoua,NE,Niger,04,13.75737,7.9874,58750,Africa/Niamey
+2445704,Diffa,Diffa,NE,Niger,02,13.31536,12.61135,54082,Africa/Niamey
+2445553,Dogondoutchi,Dogondoutchi,NE,Niger,03,13.6403,4.02649,50037,Africa/Niamey
+2332459,Lagos,Lagos,NG,Nigeria,05,6.45407,3.39467,15388000,Africa/Lagos
+2335204,Kano,Kano,NG,Nigeria,29,12.00012,8.51672,4910000,Africa/Lagos
+2339354,Ibadan,Ibadan,NG,Nigeria,32,7.37756,3.90591,3649000,Africa/Lagos
+2352778,Abuja,Abuja,NG,Nigeria,11,9.05785,7.49508,2690000,Africa/Lagos
+2324774,Port Harcourt,Port Harcourt,NG,Nigeria,50,4.77742,7.0134,2120000,Africa/Lagos
+2335727,Kaduna,Kaduna,NG,Nigeria,23,10.52641,7.43879,1850000,Africa/Lagos
+2347283,Benin City,Benin City,NG,Nigeria,37,6.33815,5.62575,1782000,Africa/Lagos
+2326016,Onitsha,Onitsha,NG,Nigeria,25,6.14978,6.78569,1553000,Africa/Lagos
+2353151,Aba,Aba,NG,Nigeria,45,5.10658,7.36667,1160000,Africa/Lagos
+2331447,Maiduguri,Maiduguri,NG,Nigeria,27,11.84692,13.15712,1110000,Africa/Lagos
+2337639,Ilorin,Ilorin,NG,Nigeria,30,8.49664,4.54214,1080000,Africa/Lagos
+2322911,Sokoto,Sokoto,NG,Nigeria,51,13.06269,5.24322,1040000,Africa/Lagos
+2335953,Jos,Jos,NG,Nigeria,49,9.92849,8.89212,1040000,Africa/Lagos
+2317765,Zaria,Zaria,NG,Nigeria,23,11.11128,7.7227,980000,Africa/Lagos
+2343279,Enugu,Enugu,NG,Nigeria,47,6.44132,7.49883,950000,Africa/Lagos
+2319133,Warri,Warri,NG,Nigeria,36,5.51737,5.75006,910000,Africa/Lagos
+2325200,Oyo,Oyo,NG,Nigeria,32,7.85367,3.93235,736072,Africa/Lagos
+2352947,Abeokuta,Abeokuta,NG,Nigeria,16,7.15571,3.34509,735000,Africa/Lagos
+2350841,Akure,Akure,NG,Nigeria,48,7.25256,5.19312,730000,Africa/Lagos
+2347470,Bauchi,Bauchi,NG,Nigeria,46,10.31032,9.84388,693700,Africa/Lagos
+785842,Skopje,Skopje,MK,North Macedonia,F6,41.99646,21.43141,474889,Europe/Skopje
+788886,Kumanovo,Kumanovo,MK,North Macedonia,D7,42.13279,21.71585,75051,Europe/Skopje
+786735,Prilep,Prilep,MK,North Macedonia,E3,41.34558,21.5537,73814,Europe/Skopje
+792578,Bitola,Bitola,MK,North Macedonia,06,41.03226,21.33553,69287,Europe/Skopje
+833262,Čair,Cair,MK,North Macedonia,F6,42.01528,21.44111,64773,Europe/Skopje
+785082,Tetovo,Tetovo,MK,North Macedonia,E8,42.00989,20.97138,63176,Europe/Skopje
+863675,Kisela Voda,Kisela Voda,MK,North Macedonia,F6,41.94889,21.50278,58216,Europe/Skopje
+785058,Veles,Veles,MK,North Macedonia,F1,41.71719,21.77196,57873,Europe/Skopje
+790295,Gostivar,Gostivar,MK,North Macedonia,D4,41.79627,20.90799,50974,Europe/Skopje
+3143244,Oslo,Oslo,NO,Norway,12,59.91273,10.74609,1082575,Europe/Oslo
+3161732,Bergen,Bergen,NO,Norway,46,60.39299,5.32415,294029,Europe/Oslo
+3133880,Trondheim,Trondheim,NO,Norway,21,63.43049,10.39506,212660,Europe/Oslo
+3137115,Stavanger,Stavanger,NO,Norway,14,58.97005,5.73332,148682,Europe/Oslo
+3149318,Kristiansand,Kristiansand,NO,Norway,42,58.14671,7.9956,117237,Europe/Oslo
+3159016,Drammen,Drammen,NO,Norway,04,59.74389,10.20449,105042,Europe/Oslo
+3147465,Lillestrøm,Lillestrom,NO,Norway,01,59.95597,11.04918,89684,Europe/Oslo
+3140321,Sandnes,Sandnes,NO,Norway,14,58.85244,5.73521,85386,Europe/Oslo
+3156529,Fredrikstad,Fredrikstad,NO,Norway,13,59.2181,10.9298,83761,Europe/Oslo
+3140390,Sandefjord,Sandefjord,NO,Norway,20,59.13118,10.21665,64345,Europe/Oslo
+3162657,Asker,Asker,NO,Norway,01,59.83333,10.43721,61906,Europe/Oslo
+3140084,Sarpsborg,Sarpsborg,NO,Norway,13,59.28391,11.10962,59038,Europe/Oslo
+3134331,Tønsberg,Tonsberg,NO,Norway,20,59.26754,10.40762,55387,Europe/Oslo
+3163392,Ålesund,Alesund,NO,Norway,08,62.47225,6.15492,52626,Europe/Oslo
+3139075,Skien,Skien,NO,Norway,17,59.20962,9.60897,50595,Europe/Oslo
+287286,Muscat,Muscat,OM,Oman,06,23.58413,58.40778,797000,Asia/Muscat
+288967,Seeb,Seeb,OM,Oman,06,23.67027,58.18911,470878,Asia/Muscat
+288764,Bawshar,Bawshar,OM,Oman,06,23.57769,58.39982,383257,Asia/Muscat
+287830,‘Ibrī,'Ibri,OM,Oman,09,23.22573,56.51572,163473,Asia/Muscat
+286621,Şalālah,Salalah,OM,Oman,08,17.01505,54.09237,163140,Asia/Muscat
+286647,Şaḩam,Saham,OM,Oman,11,24.17222,56.88861,140000,Asia/Muscat
+289011,Rustaq,Rustaq,OM,Oman,02,23.39083,57.42444,120000,Asia/Muscat
+286282,Sohar,Sohar,OM,Oman,11,24.34745,56.70937,108274,Asia/Muscat
+288955,As Suwayq,As Suwayq,OM,Oman,11,23.84944,57.43861,107143,Asia/Muscat
+288789,Barkā’,Barka',OM,Oman,02,23.67872,57.88605,81647,Asia/Muscat
+289317,Al Buraymī,Al Buraymi,OM,Oman,10,24.25088,55.79312,73670,Asia/Muscat
+286987,Nizwá,Nizwa,OM,Oman,01,22.93333,57.53333,72076,Asia/Muscat
+286245,Sur,Sur,OM,Oman,04,22.56667,59.52889,71152,Asia/Muscat
+288899,Bahlā’,Bahla',OM,Oman,01,22.97886,57.3047,54338,Asia/Muscat
+289199,Al Khābūrah,Al Khaburah,OM,Oman,11,23.97144,57.09313,50223,Asia/Muscat
+756135,Warsaw,Warsaw,PL,Poland,78,52.22977,21.01178,1702139,Europe/Warsaw
+3093133,Łódź,Lodz,PL,Poland,74,51.77058,19.47395,768755,Europe/Warsaw
+3094802,Kraków,Krakow,PL,Poland,77,50.06143,19.93658,755050,Europe/Warsaw
+3081368,Wrocław,Wroclaw,PL,Poland,72,51.10286,17.03006,634893,Europe/Warsaw
+3088171,Poznań,Poznan,PL,Poland,86,52.40692,16.92993,570352,Europe/Warsaw
+3099434,Gdańsk,Gdansk,PL,Poland,82,54.35227,18.64912,461865,Europe/Warsaw
+3083829,Szczecin,Szczecin,PL,Poland,87,53.42894,14.55302,407811,Europe/Warsaw
+3102014,Bydgoszcz,Bydgoszcz,PL,Poland,73,53.1235,18.00762,366452,Europe/Warsaw
+765876,Lublin,Lublin,PL,Poland,75,51.25058,22.57009,360044,Europe/Warsaw
+3096472,Katowice,Katowice,PL,Poland,83,50.2597,19.02173,317316,Europe/Warsaw
+776069,Białystok,Bialystok,PL,Poland,81,53.13333,23.16433,291855,Europe/Warsaw
+3099424,Gdynia,Gdynia,PL,Poland,82,54.51889,18.53188,257000,Europe/Warsaw
+3100946,Częstochowa,Czestochowa,PL,Poland,83,50.79646,19.12409,248125,Europe/Warsaw
+3085128,Sosnowiec,Sosnowiec,PL,Poland,83,50.28682,19.10385,227295,Europe/Warsaw
+760778,Radom,Radom,PL,Poland,78,51.40253,21.14714,226794,Europe/Warsaw
+764484,Mokotów,Mokotow,PL,Poland,78,52.1934,21.03487,217683,Europe/Warsaw
+769250,Kielce,Kielce,PL,Poland,84,50.87033,20.62752,208598,Europe/Warsaw
+3099230,Gliwice,Gliwice,PL,Poland,83,50.29761,18.67658,198835,Europe/Warsaw
+3083271,Toruń,Torun,PL,Poland,73,53.01375,18.59814,196935,Europe/Warsaw
+3080985,Zabrze,Zabrze,PL,Poland,83,50.32492,18.78576,192177,Europe/Warsaw
+2267057,Lisbon,Lisbon,PT,Portugal,14,38.72509,-9.1498,517802,Europe/Lisbon
+2735943,Porto,Porto,PT,Portugal,17,41.1485,-8.61097,249633,Europe/Lisbon
+2271772,Amadora,Amadora,PT,Portugal,14,38.75382,-9.23083,178858,Europe/Lisbon
+2742032,Braga,Braga,PT,Portugal,04,41.5514,-8.42311,121394,Europe/Lisbon
+2262963,Setúbal,Setubal,PT,Portugal,19,38.5244,-8.8882,117110,Europe/Lisbon
+2740637,Coimbra,Coimbra,PT,Portugal,07,40.20686,-8.41996,106582,Europe/Lisbon
+2264268,Queluz,Queluz,PT,Portugal,14,38.75657,-9.25451,103399,Europe/Lisbon
+2267827,Funchal,Funchal,PT,Portugal,10,32.66568,-16.92547,100847,Atlantic/Madeira
+2270503,Cacém,Cacem,PT,Portugal,14,38.76698,-9.29793,93982,Europe/Lisbon
+2732544,Vila Nova de Gaia,Vila Nova de Gaia,PT,Portugal,17,41.12401,-8.61241,70811,Europe/Lisbon
+2271977,Algueirão,Algueirao,PT,Portugal,14,38.79764,-9.3437,66250,Europe/Lisbon
+2266977,Loures,Loures,PT,Portugal,14,38.83091,-9.16845,66231,Europe/Lisbon
+2739693,Felgueiras,Felgueiras,PT,Portugal,17,41.36806,-8.19396,58065,Europe/Lisbon
+2268406,Évora,Evora,PT,Portugal,08,38.56587,-7.90405,55620,Europe/Lisbon
+2263827,Rio de Mouro,Rio de Mouro,PT,Portugal,14,38.76613,-9.32804,54695,Europe/Lisbon
+2265467,Odivelas,Odivelas,PT,Portugal,14,38.79269,-9.1838,54624,Europe/Lisbon
+2742611,Aveiro,Aveiro,PT,Portugal,02,40.64575,-8.64643,54162,Europe/Lisbon
+2271680,Amora,Amora,PT,Portugal,19,38.62961,-9.11557,52577,Europe/Lisbon
+2269041,Corroios,Corroios,PT,Portugal,19,38.64004,-9.1508,52520,Europe/Lisbon
+2271071,Barreiro,Barreiro,PT,Portugal,19,38.66314,-9.0724,51280,Europe/Lisbon
+290030,Doha,Doha,QA,Qatar,01,25.28545,51.53096,344939,Asia/Qatar
+289888,Ar Rayyān,Ar Rayyan,QA,Qatar,06,25.29194,51.42444,272465,Asia/Qatar
+12242643,Al Maţār al ‘Atīq,Al Matar al 'Atiq,QA,Qatar,01,25.25138,51.55569,76774,Asia/Qatar
+411759,Al Manşūrah,Al Mansurah,QA,Qatar,01,25.26807,51.53219,65493,Asia/Qatar
+683506,Bucharest,Bucharest,RO,Romania,10,44.43225,26.10626,1877155,Europe/Bucharest
+11048319,Sector 3,Sector 3,RO,Romania,10,44.4234,26.16874,385439,Europe/Bucharest
+675810,Iaşi,Iasi,RO,Romania,23,47.16667,27.6,378954,Europe/Bucharest
+11048323,Sector 6,Sector 6,RO,Romania,10,44.43579,26.01649,367760,Europe/Bucharest
+680963,Constanţa,Constanta,RO,Romania,14,44.18073,28.63432,317832,Europe/Bucharest
+11048318,Sector 2,Sector 2,RO,Romania,10,44.4528,26.13321,290507,Europe/Bucharest
+11048320,Sector 4,Sector 4,RO,Romania,10,44.37571,26.12085,287828,Europe/Bucharest
+681290,Cluj-Napoca,Cluj-Napoca,RO,Romania,13,46.76667,23.6,286598,Europe/Bucharest
+11048322,Sector 5,Sector 5,RO,Romania,10,44.38808,26.07144,271575,Europe/Bucharest
+683844,Braşov,Brasov,RO,Romania,09,45.64861,25.60613,253200,Europe/Bucharest
+665087,Timişoara,Timisoara,RO,Romania,36,45.75372,21.22571,250849,Europe/Bucharest
+680332,Craiova,Craiova,RO,Romania,17,44.31667,23.8,234140,Europe/Bucharest
+11048317,Sector 1,Sector 1,RO,Romania,10,44.49239,26.04831,225453,Europe/Bucharest
+677697,Galaţi,Galati,RO,Romania,18,45.43687,28.05028,217851,Europe/Bucharest
+665004,Târgu Mureş,Targu Mures,RO,Romania,27,46.54245,24.55747,212752,Europe/Bucharest
+671768,Oradea,Oradea,RO,Romania,05,47.0458,21.91833,183105,Europe/Bucharest
+670474,Ploieşti,Ploiesti,RO,Romania,30,44.95,26.01667,180540,Europe/Bucharest
+686254,Arad,Arad,RO,Romania,02,46.18333,21.31667,169065,Europe/Bucharest
+683902,Brăila,Braila,RO,Romania,08,45.27152,27.97429,154686,Europe/Bucharest
+670609,Piteşti,Pitesti,RO,Romania,03,44.85,24.86667,141275,Europe/Bucharest
+524901,Moscow,Moscow,RU,Russia,48,55.75204,37.61781,10381222,Europe/Moscow
+498817,Saint Petersburg,Saint Petersburg,RU,Russia,66,59.93863,30.31413,5351935,Europe/Moscow
+1496747,Novosibirsk,Novosibirsk,RU,Russia,53,55.02259,82.93175,1612833,Asia/Novosibirsk
+1486209,Yekaterinburg,Yekaterinburg,RU,Russia,71,56.85733,60.61529,1495066,Asia/Yekaterinburg
+520555,Nizhniy Novgorod,Nizhniy Novgorod,RU,Russia,51,56.32867,44.00205,1259013,Europe/Moscow
+551487,Kazan,Kazan,RU,Russia,73,55.78874,49.12214,1243500,Europe/Moscow
+1508291,Chelyabinsk,Chelyabinsk,RU,Russia,13,55.1611,61.42877,1202371,Asia/Yekaterinburg
+1496153,Omsk,Omsk,RU,Russia,54,54.99244,73.36859,1172070,Asia/Omsk
+499099,Samara,Samara,RU,Russia,65,53.20767,50.13553,1163399,Europe/Samara
+501175,Rostov-na-Donu,Rostov-na-Donu,RU,Russia,61,47.21997,39.70769,1130305,Europe/Moscow
+479561,Ufa,Ufa,RU,Russia,08,54.74306,55.96779,1120547,Asia/Yekaterinburg
+1502026,Krasnoyarsk,Krasnoyarsk,RU,Russia,91,56.03742,92.93136,1090811,Asia/Krasnoyarsk
+472045,Voronezh,Voronezh,RU,Russia,86,51.66833,39.19204,1047549,Europe/Moscow
+472757,Volgograd,Volgograd,RU,Russia,84,48.71378,44.4976,1013533,Europe/Volgograd
+511196,Perm,Perm,RU,Russia,90,58.01046,56.25017,982419,Asia/Yekaterinburg
+542420,Krasnodar,Krasnodar,RU,Russia,38,45.04534,38.98178,899541,Europe/Moscow
+498677,Saratov,Saratov,RU,Russia,67,51.54048,45.9901,844858,Europe/Saratov
+1488754,Tyumen,Tyumen,RU,Russia,78,57.15222,65.52722,768358,Asia/Yekaterinburg
+482283,Tolyatti,Tolyatti,RU,Russia,65,53.5303,49.3461,702879,Europe/Samara
+554840,Izhevsk,Izhevsk,RU,Russia,80,56.85225,53.19862,648213,Europe/Samara
+202061,Kigali,Kigali,RW,Rwanda,12,-1.94995,30.05885,1132686,Africa/Kigali
+202905,Gisenyi,Gisenyi,RW,Rwanda,14,-1.70278,29.25639,172357,Africa/Kigali
+201650,Nyagatare,Nyagatare,RW,Rwanda,11,-1.2952,30.3226,100000,Africa/Kigali
+203112,Butare,Butare,RW,Rwanda,15,-2.59667,29.73944,89600,Africa/Kigali
+202217,Gitarama,Gitarama,RW,Rwanda,15,-2.07444,29.75667,87613,Africa/Kigali
+201521,Musanze,Musanze,RW,Rwanda,13,-1.49984,29.63497,86685,Africa/Kigali
+201830,Muhanga,Muhanga,RW,Rwanda,15,-2.02269,29.70691,82797,Africa/Kigali
+202326,Cyangugu,Cyangugu,RW,Rwanda,14,-2.4846,28.9075,63883,Africa/Kigali
+2410763,São Tomé,Sao Tome,ST,Sao Tome and Principe,02,0.33756,6.7299,53300,Africa/Sao_Tome
+105343,Jeddah,Jeddah,SA,Saudi Arabia,14,21.49012,39.18624,4697000,Asia/Riyadh
+108410,Riyadh,Riyadh,SA,Saudi Arabia,10,24.68773,46.72185,4205961,Asia/Riyadh
+104515,Makkah,Makkah,SA,Saudi Arabia,14,21.42664,39.82563,1578722,Asia/Riyadh
+109223,Madinah,Madinah,SA,Saudi Arabia,05,24.46861,39.61417,1300000,Asia/Riyadh
+110336,Dammam,Dammam,SA,Saudi Arabia,06,26.43442,50.10326,1252523,Asia/Riyadh
+101760,Sulţānah,Sultanah,SA,Saudi Arabia,05,24.49258,39.58572,946697,Asia/Riyadh
+107304,Buraydah,Buraydah,SA,Saudi Arabia,08,26.32599,43.97497,745353,Asia/Riyadh
+107968,Ta’if,Ta'if,SA,Saudi Arabia,14,21.27028,40.41583,688693,Asia/Riyadh
+101628,Tabuk,Tabuk,SA,Saudi Arabia,19,28.3998,36.57151,667000,Asia/Riyadh
+106281,Ha'il,Ha'il,SA,Saudi Arabia,13,27.52188,41.69073,605930,Asia/Riyadh
+103630,Najrān,Najran,SA,Saudi Arabia,16,17.49326,44.12766,505652,Asia/Riyadh
+109353,Al Kharj,Al Kharj,SA,Saudi Arabia,10,24.15541,47.33457,425300,Asia/Riyadh
+105072,Khamis Mushait,Khamis Mushait,SA,Saudi Arabia,11,18.3,42.73333,387553,Asia/Riyadh
+109571,Al Hufūf,Al Hufuf,SA,Saudi Arabia,06,25.36467,49.58764,293179,Asia/Riyadh
+109101,Al Mubarraz,Al Mubarraz,SA,Saudi Arabia,06,25.40768,49.59028,290802,Asia/Riyadh
+106297,Hafar Al-Batin,Hafar Al-Batin,SA,Saudi Arabia,06,28.43279,45.97077,271642,Asia/Riyadh
+107991,Thuqbah,Thuqbah,SA,Saudi Arabia,06,26.26022,50.20486,248888,Asia/Riyadh
+109435,Al Jubayl,Al Jubayl,SA,Saudi Arabia,06,27.0174,49.62251,237274,Asia/Riyadh
+110690,Abha,Abha,SA,Saudi Arabia,11,18.21639,42.50528,210886,Asia/Riyadh
+100425,Yanbu,Yanbu,SA,Saudi Arabia,05,24.08954,38.0618,200161,Asia/Riyadh
+2253354,Dakar,Dakar,SN,Senegal,01,14.6937,-17.44406,2646503,Africa/Dakar
+2244322,Touba,Touba,SN,Senegal,03,14.85,-15.88333,1120824,Africa/Dakar
+2246678,Pikine,Pikine,SN,Senegal,01,14.76457,-17.39071,874062,Africa/Dakar
+2595778,Guédiawaye,Guediawaye,SN,Senegal,01,14.77446,-17.40212,329659,Africa/Dakar
+2244802,Thiès,Thies,SN,Senegal,07,14.78944,-16.92602,317763,Africa/Dakar
+2250805,Kaolack,Kaolack,SN,Senegal,10,14.15197,-16.07259,298904,Africa/Dakar
+2246512,Rufisque,Rufisque,SN,Senegal,01,14.71542,-17.27334,295459,Africa/Dakar
+2248477,Mbour,Mbour,SN,Senegal,07,14.42196,-16.96375,284189,Africa/Dakar
+2246452,Saint-Louis,Saint-Louis,SN,Senegal,14,16.01793,-16.48962,254171,Africa/Dakar
+2244799,Thiès Nones,Thies Nones,SN,Senegal,07,14.78333,-16.96667,252320,Africa/Dakar
+11101625,Rufisque est,Rufisque est,SN,Senegal,01,14.7162,-17.27283,221066,Africa/Dakar
+2243940,Ziguinchor,Ziguinchor,SN,Senegal,12,12.56801,-16.27326,214874,Africa/Dakar
+2252309,Diourbel,Diourbel,SN,Senegal,03,14.64792,-16.24363,157554,Africa/Dakar
+2244991,Tambacounda,Tambacounda,SN,Senegal,05,13.77073,-13.66734,149071,Africa/Dakar
+2249222,Louga,Louga,SN,Senegal,13,15.61867,-16.22436,113365,Africa/Dakar
+2249782,Kolda,Kolda,SN,Senegal,11,12.8939,-14.94125,103574,Africa/Dakar
+2244386,Tivaouane,Tivaouane,SN,Senegal,07,14.95186,-16.8152,102658,Africa/Dakar
+2248698,Mbaké,Mbake,SN,Senegal,03,14.79032,-15.90803,101451,Africa/Dakar
+2244616,Tiébo,Tiebo,SN,Senegal,03,14.63333,-16.23333,100289,Africa/Dakar
+2248385,Méri Mbaké,Meri Mbake,SN,Senegal,03,14.75,-15.91667,77255,Africa/Dakar
+792680,Belgrade,Belgrade,RS,Serbia,SE,44.80401,20.46513,1273651,Europe/Belgrade
+787657,Niš,Nis,RS,Serbia,SE,43.32472,21.90333,250000,Europe/Belgrade
+3194360,Novi Sad,Novi Sad,RS,Serbia,VO,45.25167,19.83694,215400,Europe/Belgrade
+783920,Zemun,Zemun,RS,Serbia,SE,44.8458,20.40116,155591,Europe/Belgrade
+789128,Kragujevac,Kragujevac,RS,Serbia,SE,44.01667,20.91667,147473,Europe/Belgrade
+792078,Čačak,Cacak,RS,Serbia,SE,43.89139,20.34972,117072,Europe/Belgrade
+3189595,Subotica,Subotica,RS,Serbia,VO,46.1,19.66667,100000,Europe/Belgrade
+788709,Leskovac,Leskovac,RS,Serbia,SE,42.99806,21.94611,94758,Europe/Belgrade
+787595,Novi Pazar,Novi Pazar,RS,Serbia,SE,43.13667,20.51222,85996,Europe/Belgrade
+789107,Kraljevo,Kraljevo,RS,Serbia,SE,43.72583,20.68944,82846,Europe/Belgrade
+783814,Zrenjanin,Zrenjanin,RS,Serbia,VO,45.38361,20.38194,79773,Europe/Belgrade
+787237,Pančevo,Pancevo,RS,Serbia,VO,44.87177,20.64167,76654,Europe/Belgrade
+788975,Kruševac,Krusevac,RS,Serbia,SE,43.58,21.33389,75256,Europe/Belgrade
+3188434,Užice,Uzice,RS,Serbia,SE,43.85861,19.84878,63577,Europe/Belgrade
+785756,Smederevo,Smederevo,RS,Serbia,SE,44.66436,20.92763,62000,Europe/Belgrade
+3188402,Valjevo,Valjevo,RS,Serbia,SE,44.27513,19.89821,61035,Europe/Belgrade
+784227,Vranje,Vranje,RS,Serbia,SE,42.55139,21.90028,56199,Europe/Belgrade
+3191376,Šabac,Sabac,RS,Serbia,SE,44.74667,19.69,55114,Europe/Belgrade
+2409306,Freetown,Freetown,SL,Sierra Leone,04,8.48714,-13.2356,802639,Africa/Freetown
+2410048,Bo,Bo,SL,Sierra Leone,03,7.96472,-11.73833,174354,Africa/Freetown
+2407790,Kenema,Kenema,SL,Sierra Leone,01,7.87687,-11.19025,143137,Africa/Freetown
+2407656,Koidu,Koidu,SL,Sierra Leone,01,8.64387,-10.9714,124662,Africa/Freetown
+2406407,Makeni,Makeni,SL,Sierra Leone,02,8.88605,-12.04417,87679,Africa/Freetown
+2403094,Waterloo,Waterloo,SL,Sierra Leone,04,8.3389,-13.07091,55000,Africa/Freetown
+3060972,Bratislava,Bratislava,SK,Slovakia,02,48.14816,17.10674,423737,Europe/Bratislava
+724443,Košice,Kosice,SK,Slovakia,03,48.71441,21.25802,225044,Europe/Bratislava
+3058213,Petržalka,Petrzalka,SK,Slovakia,02,48.12331,17.12866,112380,Europe/Bratislava
+3058531,Nitra,Nitra,SK,Slovakia,04,48.30763,18.08453,86329,Europe/Bratislava
+723819,Prešov,Presov,SK,Slovakia,05,48.99923,21.2355,82927,Europe/Bratislava
+3056508,Žilina,Zilina,SK,Slovakia,08,49.22315,18.73941,81219,Europe/Bratislava
+3061186,Banská Bystrica,Banska Bystrica,SK,Slovakia,01,48.73947,19.14932,74590,Europe/Bratislava
+3057124,Trnava,Trnava,SK,Slovakia,07,48.37773,17.58603,62806,Europe/Bratislava
+3057140,Trenčín,Trencin,SK,Slovakia,06,48.89452,18.04436,58278,Europe/Bratislava
+723846,Poprad,Poprad,SK,Slovakia,05,49.06144,20.29798,57431,Europe/Bratislava
+3058780,Martin,Martin,SK,Slovakia,08,49.06651,18.92399,54618,Europe/Bratislava
+3058000,Prievidza,Prievidza,SK,Slovakia,06,48.77446,18.6275,52987,Europe/Bratislava
+3196359,Ljubljana,Ljubljana,SI,Slovenia,61,46.05108,14.50513,272220,Europe/Ljubljana
+3195506,Maribor,Maribor,SI,Slovenia,J2,46.55583,15.64593,97019,Europe/Ljubljana
+53654,Mogadishu,Mogadishu,SO,Somalia,02,2.03711,45.34375,2587183,Africa/Mogadishu
+64021,Borama,Borama,SO,Somalia,21,9.93611,43.18278,597842,Africa/Mogadishu
+57289,Hargeysa,Hargeysa,SO,Somalia,20,9.56,44.065,477876,Africa/Mogadishu
+64435,Berbera,Berbera,SO,Somalia,20,10.43959,45.01432,242344,Africa/Mogadishu
+55671,Kismayo,Kismayo,SO,Somalia,09,-0.35817,42.54536,234852,Africa/Mogadishu
+54225,Marka,Marka,SO,Somalia,14,1.71594,44.77166,230100,Africa/Mogadishu
+52407,Ruqi,Ruqi,SO,Somalia,21,9.97293,43.4276,148702,Africa/Mogadishu
+64536,Baidoa,Baidoa,SO,Somalia,04,3.11383,43.6498,129839,Africa/Mogadishu
+63400,Cabudwaaq,Cabudwaaq,SO,Somalia,05,6.24585,46.2247,120000,Africa/Addis_Ababa
+63795,Burao,Burao,SO,Somalia,19,9.52213,45.53363,99270,Africa/Mogadishu
+58831,Gebiley,Gebiley,SO,Somalia,20,9.70028,43.62444,77320,Africa/Mogadishu
+64013,Bosaso,Bosaso,SO,Somalia,03,11.28421,49.18158,74287,Africa/Mogadishu
+12212406,Beled Hawo,Beled Hawo,SO,Somalia,06,3.9284,41.87997,73000,Africa/Mogadishu
+342803,Balanbale,Balanbale,SO,Somalia,05,5.76897,45.76297,68000,Africa/Addis_Ababa
+65785,Afgooye,Afgooye,SO,Somalia,14,2.1381,45.1212,65461,Africa/Mogadishu
+59611,Gaalkacyo,Gaalkacyo,SO,Somalia,10,6.76972,47.43083,61200,Africa/Mogadishu
+400769,Laascaanood,Laascaanood,SO,Somalia,22,8.47738,47.35971,60100,Africa/Mogadishu
+58933,Garoowe,Garoowe,SO,Somalia,18,8.40207,48.48284,57300,Africa/Mogadishu
+64460,Beledweyne,Beledweyne,SO,Somalia,07,4.73583,45.20361,55410,Africa/Mogadishu
+52867,Qoryooley,Qoryooley,SO,Somalia,14,1.78784,44.52999,51720,Africa/Mogadishu
+993800,Johannesburg,Johannesburg,ZA,South Africa,06,-26.20227,28.04363,9418183,Africa/Johannesburg
+3369157,Cape Town,Cape Town,ZA,South Africa,11,-33.92584,18.42322,4772846,Africa/Johannesburg
+1007311,Durban,Durban,ZA,South Africa,02,-29.8579,31.0292,3338026,Africa/Johannesburg
+964137,Pretoria,Pretoria,ZA,South Africa,06,-25.74486,28.18783,2112693,Africa/Johannesburg
+953781,Soweto,Soweto,ZA,South Africa,06,-26.26781,27.85849,1695047,Africa/Johannesburg
+964420,Port Elizabeth,Port Elizabeth,ZA,South Africa,05,-33.96109,25.61494,1050078,Africa/Johannesburg
+954013,Soshanguve,Soshanguve,ZA,South Africa,06,-25.47288,28.09919,872309,Africa/Johannesburg
+965301,Pietermaritzburg,Pietermaritzburg,ZA,South Africa,02,-29.61679,30.39278,839327,Africa/Johannesburg
+1004866,Evaton,Evaton,ZA,South Africa,06,-26.53333,27.85,725468,Africa/Johannesburg
+1020098,Benoni,Benoni,ZA,South Africa,06,-26.18848,28.32078,605344,Africa/Johannesburg
+1018725,Bloemfontein,Bloemfontein,ZA,South Africa,03,-29.12107,26.214,556637,Africa/Johannesburg
+949880,Thembisa,Thembisa,ZA,South Africa,06,-25.99636,28.2268,511655,Africa/Johannesburg
+1006984,East London,East London,ZA,South Africa,05,-33.01529,27.91162,478676,Africa/Johannesburg
+944385,Vereeniging,Vereeniging,ZA,South Africa,06,-26.67313,27.92615,474681,Africa/Johannesburg
+1017780,Boksburg,Boksburg,ZA,South Africa,06,-26.21197,28.25958,445168,Africa/Johannesburg
+940909,Welkom,Welkom,ZA,South Africa,03,-27.97742,26.73506,431944,Africa/Johannesburg
+971421,Newcastle,Newcastle,ZA,South Africa,02,-27.75796,29.9318,404838,Africa/Johannesburg
+986822,Krugersdorp,Krugersdorp,ZA,South Africa,06,-26.08577,27.77515,378821,Africa/Johannesburg
+958724,Rustenburg,Rustenburg,ZA,South Africa,10,-25.66756,27.24208,373695,Africa/Johannesburg
+939270,Emalahleni,Emalahleni,ZA,South Africa,07,-25.87133,29.23323,373403,Africa/Johannesburg
+373303,Juba,Juba,SS,South Sudan,01,4.85165,31.58247,450000,Africa/Juba
+363807,Winejok,Winejok,SS,South Sudan,05,9.01222,27.57081,300000,Africa/Juba
+363619,Yei,Yei,SS,South Sudan,01,4.09444,30.67639,260720,Africa/Juba
+370737,Malakal,Malakal,SS,South Sudan,07,9.53342,31.66049,160765,Africa/Juba
+363885,Wau,Wau,SS,South Sudan,09,7.70111,27.98972,127384,Africa/Juba
+371712,Kuacjok,Kuacjok,SS,South Sudan,08,8.30278,27.98,78000,Africa/Juba
+3117735,Madrid,Madrid,ES,Spain,29,40.4165,-3.70256,3255944,Europe/Madrid
+3128760,Barcelona,Barcelona,ES,Spain,56,41.38879,2.15899,1620343,Europe/Madrid
+2509954,Valencia,Valencia,ES,Spain,60,39.47391,-0.37966,825948,Europe/Madrid
+2510911,Sevilla,Sevilla,ES,Spain,51,37.38283,-5.97317,687488,Europe/Madrid
+3104324,Zaragoza,Zaragoza,ES,Spain,52,41.65606,-0.87734,686986,Europe/Madrid
+2514256,Málaga,Malaga,ES,Spain,51,36.72016,-4.42034,591637,Europe/Madrid
+2513416,Murcia,Murcia,ES,Spain,31,37.98704,-1.13004,460349,Europe/Madrid
+2512989,Palma,Palma,ES,Spain,07,39.56939,2.65024,409661,Europe/Madrid
+2515270,Las Palmas de Gran Canaria,Las Palmas de Gran Canaria,ES,Spain,53,28.10178,-15.41573,378517,Atlantic/Canary
+2521978,Alicante,Alicante,ES,Spain,60,38.34517,-0.48149,348901,Europe/Madrid
+3128026,Bilbao,Bilbao,ES,Spain,59,43.26271,-2.92528,347342,Europe/Madrid
+2519240,Córdoba,Cordoba,ES,Spain,51,37.89155,-4.77275,325708,Europe/Madrid
+3106672,Valladolid,Valladolid,ES,Spain,55,41.65541,-4.72353,300618,Europe/Madrid
+3105976,Vigo,Vigo,ES,Spain,58,42.23282,-8.72264,293642,Europe/Madrid
+3121424,Gijón,Gijon,ES,Spain,34,43.53573,-5.66152,271780,Europe/Madrid
+6544100,Eixample,Eixample,ES,Spain,56,41.38896,2.16179,266477,Europe/Madrid
+3120619,L'Hospitalet de Llobregat,L'Hospitalet de Llobregat,ES,Spain,56,41.35967,2.10028,257038,Europe/Madrid
+6544489,Latina,Latina,ES,Spain,29,40.38897,-3.74569,256644,Europe/Madrid
+6544493,Carabanchel,Carabanchel,ES,Spain,29,40.39094,-3.7242,253678,Europe/Madrid
+3119841,A Coruña,A Coruna,ES,Spain,58,43.37135,-8.396,250438,Europe/Madrid
+379252,Khartoum,Khartoum,SD,Sudan,29,15.55177,32.53241,1974647,Africa/Khartoum
+365137,Omdurman,Omdurman,SD,Sudan,29,15.64453,32.47773,1849659,Africa/Khartoum
+379251,Khartoum North,Khartoum North,SD,Sudan,29,15.64925,32.53458,1012211,Africa/Khartoum
+369004,Nyala,Nyala,SD,Sudan,49,12.04888,24.88069,565734,Africa/Khartoum
+377039,Port Sudan,Port Sudan,SD,Sudan,36,19.61745,37.21644,489725,Africa/Khartoum
+372753,Kassala,Kassala,SD,Sudan,52,15.45099,36.39998,401477,Africa/Khartoum
+379003,El Obeid,El Obeid,SD,Sudan,56,13.18421,30.21669,393311,Africa/Khartoum
+379062,Al Qadarif,Al Qadarif,SD,Sudan,39,14.03493,35.38344,363945,Africa/Khartoum
+371760,Kosti,Kosti,SD,Sudan,41,13.1629,32.66347,345068,Africa/Khartoum
+364103,Wad Medani,Wad Medani,SD,Sudan,38,14.40118,33.51989,332714,Africa/Khartoum
+380148,El Daein,El Daein,SD,Sudan,60,11.46186,26.12583,264734,Africa/Khartoum
+379555,El Fasher,El Fasher,SD,Sudan,55,13.62793,25.34936,252609,Africa/Khartoum
+366847,Singa,Singa,SD,Sudan,58,13.1483,33.93117,250000,Africa/Khartoum
+380174,Ad-Damazin,Ad-Damazin,SD,Sudan,42,11.7891,34.3592,186051,Africa/Khartoum
+379303,Geneina,Geneina,SD,Sudan,47,13.45262,22.44725,162981,Africa/Khartoum
+368277,Rabak,Rabak,SD,Sudan,41,13.18087,32.73999,135281,Africa/Khartoum
+379302,El Geneina Fort,El Geneina Fort,SD,Sudan,47,13.47481,22.45744,134264,Africa/Khartoum
+367644,Sinnar,Sinnar,SD,Sudan,58,13.56907,33.56718,130122,Africa/Khartoum
+379149,Al Manāqil,Al Manaqil,SD,Sudan,38,14.2459,32.9891,128297,Africa/Khartoum
+8504621,Gereida,Gereida,SD,Sudan,49,11.27543,25.14026,120000,Africa/Khartoum
+2673730,Stockholm,Stockholm,SE,Sweden,26,59.32938,18.06871,1515017,Europe/Stockholm
+2711537,Göteborg,Goeteborg,SE,Sweden,28,57.70716,11.96679,608462,Europe/Stockholm
+2692969,Malmö,Malmoe,SE,Sweden,27,55.60587,13.00073,362133,Europe/Stockholm
+2666199,Uppsala,Uppsala,SE,Sweden,21,59.85882,17.63889,177074,Europe/Stockholm
+2694762,Linköping,Linkoeping,SE,Sweden,16,58.41086,15.62157,166673,Europe/Stockholm
+2686657,Örebro,OErebro,SE,Sweden,15,59.27412,15.2066,155989,Europe/Stockholm
+2675408,Sollentuna,Sollentuna,SE,Sweden,26,59.42804,17.95093,139606,Europe/Stockholm
+602150,Umeå,Umea,SE,Sweden,23,63.82842,20.25972,130224,Europe/Stockholm
+2664454,Västerås,Vaesteras,SE,Sweden,25,59.61617,16.55276,127799,Europe/Stockholm
+2676209,Södermalm,Soedermalm,SE,Sweden,26,59.31278,18.07577,127323,Europe/Stockholm
+2702979,Jönköping,Joenkoeping,SE,Sweden,08,57.78145,14.15618,112766,Europe/Stockholm
+2706767,Helsingborg,Helsingborg,SE,Sweden,27,56.04673,12.69437,104250,Europe/Stockholm
+2688368,Norrköping,Norrkoeping,SE,Sweden,16,58.59419,16.1826,93765,Europe/Stockholm
+2704620,Huddinge,Huddinge,SE,Sweden,26,59.23705,17.98192,90182,Europe/Stockholm
+2693678,Lund,Lund,SE,Sweden,27,55.70584,13.19321,87244,Europe/Stockholm
+604490,Luleå,Lulea,SE,Sweden,14,65.58415,22.15465,77832,Europe/Stockholm
+2707953,Haninge,Haninge,SE,Sweden,26,59.16775,18.14478,74968,Europe/Stockholm
+2712414,Gävle,Gaevle,SE,Sweden,03,60.67452,17.14174,74884,Europe/Stockholm
+2720501,Borås,Boras,SE,Sweden,28,57.72101,12.9401,71700,Europe/Stockholm
+2663536,Växjö,Vaexjoe,SE,Sweden,12,56.87767,14.80906,71282,Europe/Stockholm
+2657896,Zürich,Zuerich,CH,Switzerland,ZH,47.36667,8.55,415367,Europe/Zurich
+2660646,Genève,Geneve,CH,Switzerland,GE,46.20222,6.14569,201741,Europe/Zurich
+2661604,Basel,Basel,CH,Switzerland,BS,47.55839,7.57327,177595,Europe/Zurich
+2659994,Lausanne,Lausanne,CH,Switzerland,VD,46.516,6.63282,139111,Europe/Zurich
+2661552,Bern,Bern,CH,Switzerland,BE,46.94809,7.44744,121631,Europe/Zurich
+2657970,Winterthur,Winterthur,CH,Switzerland,ZH,47.50564,8.72413,111840,Europe/Zurich
+2659811,Luzern,Luzern,CH,Switzerland,LU,47.05048,8.30635,81691,Europe/Zurich
+2658822,Sankt Gallen,Sankt Gallen,CH,Switzerland,SG,47.42391,9.37477,75833,Europe/Zurich
+2659836,Lugano,Lugano,CH,Switzerland,TI,46.01008,8.96004,63185,Europe/Zurich
+2661513,Biel/Bienne,Biel/Bienne,CH,Switzerland,BE,47.13713,7.24608,55120,Europe/Zurich
+6295533,Zürich (Kreis 11),Zuerich (Kreis 11),CH,Switzerland,ZH,47.42326,8.52166,54260,Europe/Zurich
+170063,Aleppo,Aleppo,SY,Syria,09,36.20124,37.16117,2098210,Asia/Damascus
+170654,Damascus,Damascus,SY,Syria,13,33.5102,36.29128,1569394,Asia/Damascus
+169577,Homs,Homs,SY,Syria,11,34.72405,36.72559,775404,Asia/Damascus
+173576,Latakia,Latakia,SY,Syria,02,35.53125,35.79088,709000,Asia/Damascus
+172955,Ar Raqqah,Ar Raqqah,SY,Syria,04,35.95283,39.00788,531952,Asia/Damascus
+170017,Ḩamāh,Hamah,SY,Syria,10,35.13179,36.75783,460602,Asia/Damascus
+163345,Ţarţūs,Tartus,SY,Syria,14,34.88902,35.88659,458327,Asia/Damascus
+173811,Al Ḩasakah,Al Hasakah,SY,Syria,01,36.50237,40.74772,422445,Asia/Damascus
+170794,Deir ez-Zor,Deir ez-Zor,SY,Syria,07,35.33588,40.14084,271800,Asia/Damascus
+174018,Al Bāb,Al Bab,SY,Syria,09,36.37051,37.5157,130745,Asia/Damascus
+169389,Idlib,Idlib,SY,Syria,12,35.93062,36.63393,128840,Asia/Damascus
+170592,Dūmā,Duma,SY,Syria,08,33.57175,36.4027,111864,Asia/Damascus
+167357,Manbij,Manbij,SY,Syria,09,36.52815,37.95495,99497,Asia/Damascus
+170905,Dar‘ā,Dar'a,SY,Syria,06,32.61889,36.10213,97969,Asia/Damascus
+164947,As Salamīyah,As Salamiyah,SY,Syria,10,35.01127,37.05324,94887,Asia/Damascus
+172374,Ath Thawrah,Ath Thawrah,SY,Syria,04,35.83758,38.54828,87880,Asia/Damascus
+170892,Dārayyā,Darayya,SY,Syria,08,33.45835,36.23256,71596,Asia/Damascus
+172082,I‘zāz,I`zaz,SY,Syria,09,36.58662,37.04628,66138,Asia/Damascus
+169304,Jablah,Jablah,SY,Syria,02,35.36211,35.92759,65915,Asia/Damascus
+172503,As Safīrah,As Safirah,SY,Syria,09,36.07696,37.37251,63708,Asia/Damascus
+160263,Dar es Salaam,Dar es Salaam,TZ,Tanzania,23,-6.82349,39.26951,5383728,Africa/Dar_es_Salaam
+152224,Mwanza,Mwanza,TZ,Tanzania,12,-2.51667,32.9,1104521,Africa/Dar_es_Salaam
+160196,Dodoma,Dodoma,TZ,Tanzania,03,-6.17221,35.73947,765179,Africa/Dar_es_Salaam
+148730,Zanzibar,Zanzibar,TZ,Tanzania,25,-6.16394,39.19793,709809,Africa/Dar_es_Salaam
+161325,Arusha,Arusha,TZ,Tanzania,26,-3.36667,36.68333,617631,Africa/Dar_es_Salaam
+154380,Mbeya,Mbeya,TZ,Tanzania,09,-8.9,33.45,541603,Africa/Dar_es_Salaam
+153220,Morogoro,Morogoro,TZ,Tanzania,10,-6.82102,37.66122,471409,Africa/Dar_es_Salaam
+158597,Kahama,Kahama,TZ,Tanzania,15,-3.83333,32.6,453654,Africa/Dar_es_Salaam
+149606,Tanga,Tanga,TZ,Tanzania,18,-5.06893,39.09875,393429,Africa/Dar_es_Salaam
+159908,Geita,Geita,TZ,Tanzania,28,-2.8725,32.2325,318006,Africa/Dar_es_Salaam
+149658,Tabora,Tabora,TZ,Tanzania,17,-5.01622,32.82663,308741,Africa/Dar_es_Salaam
+149703,Sumbawanga,Sumbawanga,TZ,Tanzania,24,-7.96667,31.61667,303986,Africa/Dar_es_Salaam
+877401,Songea,Songea,TZ,Tanzania,14,-10.68333,35.65,286285,Africa/Dar_es_Salaam
+158027,Kibaha,Kibaha,TZ,Tanzania,02,-6.76667,38.91667,265360,Africa/Dar_es_Salaam
+161218,Bariadi,Bariadi,TZ,Tanzania,31,-2.8,33.98333,260927,Africa/Dar_es_Salaam
+158214,Kasulu,Kasulu,TZ,Tanzania,05,-4.57667,30.1025,238321,Africa/Dar_es_Salaam
+149879,Singida,Singida,TZ,Tanzania,16,-4.81629,34.74358,232459,Africa/Dar_es_Salaam
+157738,Kigoma,Kigoma,TZ,Tanzania,05,-4.87694,29.62667,232388,Africa/Dar_es_Salaam
+153209,Moshi,Moshi,TZ,Tanzania,06,-3.35,37.33333,221733,Africa/Dar_es_Salaam
+149402,Tunduma,Tunduma,TZ,Tanzania,32,-9.3,32.76667,219309,Africa/Dar_es_Salaam
+2365267,Lomé,Lome,TG,Togo,24,6.12874,1.22154,2188376,Africa/Lome
+2364104,Sokodé,Sokode,TG,Togo,22,8.98333,1.13333,117811,Africa/Lome
+2366152,Kara,Kara,TG,Togo,23,9.55111,1.18611,104207,Africa/Lome
+2367886,Atakpamé,Atakpame,TG,Togo,25,7.53333,1.13333,80683,Africa/Lome
+2365560,Kpalimé,Kpalime,TG,Togo,25,6.9,0.63333,75084,Africa/Lome
+2367568,Bassar,Bassar,TG,Togo,23,9.25025,0.78213,61845,Africa/Lome
+2367164,Dapaong,Dapaong,TG,Togo,26,10.86225,0.20762,58071,Africa/Lome
+2363534,Tsévié,Tsevie,TG,Togo,24,6.42611,1.21333,55775,Africa/Lome
+2464470,Tunis,Tunis,TN,Tunisia,36,36.81897,10.16579,693210,Africa/Tunis
+2467454,Sfax,Sfax,TN,Tunisia,32,34.74056,10.76028,280566,Africa/Tunis
+2464915,Sousse,Sousse,TN,Tunisia,23,35.82539,10.63699,221715,Africa/Tunis
+2473449,Kairouan,Kairouan,TN,Tunisia,03,35.6781,10.09633,139070,Africa/Tunis
+2472706,Bizerte,Bizerte,TN,Tunisia,18,37.27442,9.87391,138430,Africa/Tunis
+2464960,Sukrah,Sukrah,TN,Tunisia,38,36.87744,10.2468,129693,Africa/Tunis
+2473247,Aryanah,Aryanah,TN,Tunisia,38,36.86012,10.19337,114486,Africa/Tunis
+2468369,Gabès,Gabes,TN,Tunisia,29,33.88146,10.0982,110075,Africa/Tunis
+2473164,Sejoumi,Sejoumi,TN,Tunisia,36,36.75583,10.11833,109672,Africa/Tunis
+11204413,El Mourouj,El Mourouj,TN,Tunisia,27,36.71364,10.2096,104538,Africa/Tunis
+2473744,Hammamet,Hammamet,TN,Tunisia,19,36.4,10.61667,97579,Africa/Tunis
+2468353,Gafsa,Gafsa,TN,Tunisia,30,34.425,8.78417,95242,Africa/Tunis
+7870240,La Gazelle,La Gazelle,TN,Tunisia,38,36.89479,10.18604,94961,Africa/Tunis
+2473493,Monastir,Monastir,TN,Tunisia,16,35.77799,10.82617,93306,Africa/Tunis
+2473540,La Marsa,La Marsa,TN,Tunisia,36,36.87818,10.32466,92987,Africa/Tunis
+2472479,Ben Arous,Ben Arous,TN,Tunisia,27,36.75452,10.22167,88322,Africa/Tunis
+2473457,Kasserine,Kasserine,TN,Tunisia,02,35.16758,8.83651,84365,Africa/Tunis
+13132712,Ettadhamen,Ettadhamen,TN,Tunisia,38,36.83246,10.10995,84312,Africa/Tunis
+13132711,Douar Hicher,Douar Hicher,TN,Tunisia,39,36.82657,10.08974,82532,Africa/Tunis
+2470656,La Goulette,La Goulette,TN,Tunisia,36,36.81919,10.30646,79795,Africa/Tunis
+232422,Kampala,Kampala,UG,Uganda,C,0.31628,32.58219,1680600,Africa/Kampala
+10943053,Nansana,Nansana,UG,Uganda,C,0.36389,32.52861,532800,Africa/Kampala
+231165,Kira,Kira,UG,Uganda,C,0.4,32.63333,462900,Africa/Kampala
+234179,Bunamwaya,Bunamwaya,UG,Uganda,C,0.25344,32.55723,413400,Africa/Kampala
+10858926,Kyengera,Kyengera,UG,Uganda,C,0.29517,32.50159,285400,Africa/Kampala
+229268,Mbarara,Mbarara,UG,Uganda,W,-0.60467,30.64851,221300,Africa/Kampala
+232110,Kasangati,Kasangati,UG,Uganda,C,0.43803,32.60246,207800,Africa/Kampala
+228853,Mukono,Mukono,UG,Uganda,C,0.35333,32.75528,191300,Africa/Kampala
+227812,Njeru,Njeru,UG,Uganda,C,0.44166,33.17917,178800,Africa/Kampala
+233346,Gulu,Gulu,UG,Uganda,N,2.77457,32.29899,177400,Africa/Kampala
+231954,Katabi,Katabi,UG,Uganda,C,0.08411,32.46972,154300,Africa/Kampala
+232713,Kajansi,Kajansi,UG,Uganda,C,0.21548,32.53453,135600,Africa/Kampala
+229911,Lugazi,Lugazi,UG,Uganda,C,0.36788,32.9376,128400,Africa/Kampala
+233312,Hoima,Hoima,UG,Uganda,W,1.43314,31.35241,122700,Africa/Kampala
+228971,Mubende,Mubende,UG,Uganda,C,0.55849,31.39489,121600,Africa/Kampala
+230166,Lira,Lira,UG,Uganda,N,2.2499,32.89985,119323,Africa/Kampala
+233299,Ibanda,Ibanda,UG,Uganda,W,-0.13398,30.49616,117700,Africa/Kampala
+229380,Masaka,Masaka,UG,Uganda,C,-0.33379,31.73409,116600,Africa/Kampala
+232066,Kasese,Kasese,UG,Uganda,W,0.18333,30.08333,115400,Africa/Kampala
+229278,Mbale,Mbale,UG,Uganda,E,1.08209,34.17503,111300,Africa/Kampala
+703448,Kyiv,Kyiv,UA,Ukraine,12,50.45466,30.5238,2797553,Europe/Kyiv
+706483,Kharkiv,Kharkiv,UA,Ukraine,07,49.98177,36.25475,1433886,Europe/Kyiv
+698740,Odesa,Odesa,UA,Ukraine,17,46.48572,30.74383,1015826,Europe/Kyiv
+709930,Dnipro,Dnipro,UA,Ukraine,04,48.46664,35.04066,968502,Europe/Kyiv
+709717,Donetsk,Donetsk,UA,Ukraine,05,48.023,37.80224,901645,Europe/Kyiv
+702550,Lviv,Lviv,UA,Ukraine,15,49.83826,24.02324,717273,Europe/Kyiv
+687700,Zaporizhzhya,Zaporizhzhya,UA,Ukraine,26,47.85167,35.11714,710052,Europe/Kyiv
+703845,Kryvyy Rih,Kryvyy Rih,UA,Ukraine,04,47.90572,33.39404,603904,Europe/Kyiv
+694423,Sevastopol,Sevastopol,UA,Ukraine,20,44.60795,33.52134,547820,Europe/Simferopol
+700569,Mykolayiv,Mykolayiv,UA,Ukraine,16,46.97625,31.99296,470011,Europe/Kyiv
+6722148,Saltivka,Saltivka,UA,Ukraine,07,50.02207,36.34901,400000,Europe/Kyiv
+702658,Luhansk,Luhansk,UA,Ukraine,14,48.56814,39.30553,397677,Europe/Kyiv
+689558,Vinnytsya,Vinnytsya,UA,Ukraine,23,49.2322,28.46871,369839,Europe/Kyiv
+692909,Stara Darnytsya,Stara Darnytsya,UA,Ukraine,12,50.43333,30.63333,339299,Europe/Kyiv
+702320,Makiivka,Makiivka,UA,Ukraine,05,48.04782,37.92576,338968,Europe/Kyiv
+693805,Simferopol,Simferopol,UA,Ukraine,11,44.95719,34.11079,336460,Europe/Simferopol
+710735,Chernihiv,Chernihiv,UA,Ukraine,02,51.50541,31.28656,285234,Europe/Kyiv
+706448,Kherson,Kherson,UA,Ukraine,08,46.63695,32.61458,283649,Europe/Kyiv
+696643,Poltava,Poltava,UA,Ukraine,18,49.58925,34.55367,283402,Europe/Kyiv
+706369,Khmelnytskyi,Khmelnytskyi,UA,Ukraine,09,49.41835,26.97936,274582,Europe/Kyiv
+292223,Dubai,Dubai,AE,United Arab Emirates,03,25.07725,55.30927,3790000,Asia/Dubai
+292968,Abu Dhabi,Abu Dhabi,AE,United Arab Emirates,01,24.45118,54.39696,1807000,Asia/Dubai
+292672,Sharjah,Sharjah,AE,United Arab Emirates,06,25.3342,55.41221,1800000,Asia/Dubai
+292913,Al Ain City,Al Ain City,AE,United Arab Emirates,01,24.19167,55.76056,846747,Asia/Dubai
+292932,Ajman City,Ajman City,AE,United Arab Emirates,02,25.40177,55.47878,490035,Asia/Dubai
+292261,Dayrah,Dayrah,AE,United Arab Emirates,03,25.27143,55.30207,400000,Asia/Dubai
+291074,Ras Al Khaimah City,Ras Al Khaimah City,AE,United Arab Emirates,05,25.78953,55.9432,351943,Asia/Dubai
+12042053,Musaffah,Musaffah,AE,United Arab Emirates,01,24.35893,54.48267,243341,Asia/Dubai
+11524601,Jebel Ali,Jebel Ali,AE,United Arab Emirates,03,25.00255,55.10811,210000,Asia/Dubai
+13118432,Business Bay,Business Bay,AE,United Arab Emirates,03,25.18544,55.26969,191000,Asia/Dubai
+11048853,Dubai Investments Park,Dubai Investments Park,AE,United Arab Emirates,03,25.00827,55.15682,160000,Asia/Dubai
+8469668,International City,International City,AE,United Arab Emirates,03,25.16383,55.40987,120000,Asia/Dubai
+8469788,Dubai Marina,Dubai Marina,AE,United Arab Emirates,03,25.08525,55.14646,120000,Asia/Dubai
+292878,Al Fujairah City,Al Fujairah City,AE,United Arab Emirates,04,25.11641,56.34141,118933,Asia/Dubai
+8476509,Al Majaz,Al Majaz,AE,United Arab Emirates,06,25.32354,55.38774,116503,Asia/Dubai
+290503,Warīsān,Warisan,AE,United Arab Emirates,03,25.16744,55.40708,108759,Asia/Dubai
+13118424,Dubai Silicon Oasis,Dubai Silicon Oasis,AE,United Arab Emirates,03,25.11985,55.38718,90000,Asia/Dubai
+8475866,Ar Rumaylah,Ar Rumaylah,AE,United Arab Emirates,02,25.40338,55.4334,86000,Asia/Dubai
+8057551,Khalifah A City,Khalifah A City,AE,United Arab Emirates,01,24.42588,54.605,85374,Asia/Dubai
+13118447,Mohammed Bin Zayed City,Mohammed Bin Zayed City,AE,United Arab Emirates,01,24.34794,54.55368,85000,Asia/Dubai
+2643743,London,London,GB,United Kingdom,ENG,51.50853,-0.12574,8961989,Europe/London
+2655603,Birmingham,Birmingham,GB,United Kingdom,ENG,52.48142,-1.89983,1157603,Europe/London
+2648579,Glasgow,Glasgow,GB,United Kingdom,SCT,55.86515,-4.25763,626410,Europe/London
+2643123,Manchester,Manchester,GB,United Kingdom,ENG,53.48095,-2.23743,568996,Europe/London
+2638077,Sheffield,Sheffield,GB,United Kingdom,ENG,53.38297,-1.4659,556500,Europe/London
+2644688,Leeds,Leeds,GB,United Kingdom,ENG,53.79648,-1.54785,536280,Europe/London
+2650225,Edinburgh,Edinburgh,GB,United Kingdom,SCT,55.95206,-3.19648,514990,Europe/London
+2644210,Liverpool,Liverpool,GB,United Kingdom,ENG,53.41058,-2.97794,496770,Europe/London
+2654675,Bristol,Bristol,GB,United Kingdom,ENG,51.45523,-2.59665,479024,Europe/London
+2653822,Cardiff,Cardiff,GB,United Kingdom,WLS,51.48,-3.18,372089,Europe/London
+2644668,Leicester,Leicester,GB,United Kingdom,ENG,52.6386,-1.13169,368600,Europe/London
+2654993,Bradford,Bradford,GB,United Kingdom,ENG,53.79391,-1.75206,366187,Europe/London
+2655984,Belfast,Belfast,GB,United Kingdom,NIR,54.59682,-5.92541,348005,Europe/London
+2652221,Coventry,Coventry,GB,United Kingdom,ENG,52.40656,-1.51217,345324,Europe/London
+2654789,Brent,Brent,GB,United Kingdom,ENG,51.55306,-0.3023,329100,Europe/London
+2655613,Birkenhead,Birkenhead,GB,United Kingdom,ENG,53.39337,-3.01479,325264,Europe/London
+2641170,Nottingham,Nottingham,GB,United Kingdom,ENG,52.9536,-1.15047,323632,Europe/London
+2646003,Islington,Islington,GB,United Kingdom,ENG,51.53622,-0.10304,319143,Europe/London
+2639577,Reading,Reading,GB,United Kingdom,ENG,51.45625,-0.97113,318014,Europe/London
+2645425,Kingston upon Hull,Kingston upon Hull,GB,United Kingdom,ENG,53.7446,-0.33525,314018,Europe/London
+71137,Sanaa,Sanaa,YE,Yemen,26,15.35452,44.20646,1937451,Asia/Aden
+415189,Aden,Aden,YE,Yemen,02,12.77957,45.03852,1079670,Asia/Aden
+70225,Taiz,Taiz,YE,Yemen,25,13.57952,44.02091,940600,Asia/Aden
+74477,Ibb,Ibb,YE,Yemen,23,13.96667,44.18333,771514,Asia/Aden
+79415,Al Ḩudaydah,Al Hudaydah,YE,Yemen,08,14.79781,42.95452,734699,Asia/Aden
+78754,Mukalla,Mukalla,YE,Yemen,04,14.54248,49.12424,594951,Asia/Aden
+76184,Dhamār,Dhamar,YE,Yemen,11,14.54274,44.40514,160114,Asia/Aden
+78428,‘Amrān,'Amran,YE,Yemen,19,15.6594,43.94385,90792,Asia/Aden
+70979,Sayyān,Sayyan,YE,Yemen,16,15.17177,44.32442,69404,Asia/Aden
+69500,Zabīd,Zabid,YE,Yemen,08,14.1951,43.31518,52590,Asia/Aden
+71334,Sa'dah,Sa'dah,YE,Yemen,15,16.94021,43.76393,51870,Asia/Aden
+909137,Lusaka,Lusaka,ZM,Zambia,09,-15.40669,28.28713,2212301,Africa/Lusaka
+911148,Kitwe,Kitwe,ZM,Zambia,08,-12.80243,28.21323,665961,Africa/Lusaka
+901344,Ndola,Ndola,ZM,Zambia,08,-12.95867,28.63659,627503,Africa/Lusaka
+918702,Chipata,Chipata,ZM,Zambia,03,-13.63333,32.65,327059,Africa/Lusaka
+897045,Solwezi,Solwezi,ZM,Zambia,06,-12.1688,26.38938,301370,Africa/Lusaka
+916095,Kabwe,Kabwe,ZM,Zambia,02,-14.4469,28.44644,288598,Africa/Lusaka
+919009,Chingola,Chingola,ZM,Zambia,08,-12.52897,27.88382,256560,Africa/Lusaka
+909863,Luanshya,Luanshya,ZM,Zambia,08,-13.13667,28.41661,193293,Africa/Lusaka
+912764,Kasama,Kasama,ZM,Zambia,05,-10.21289,31.18084,179636,Africa/Lusaka
+910111,Livingstone,Livingstone,ZM,Zambia,07,-17.84194,25.85425,178361,Africa/Lusaka
+907770,Mansa,Mansa,ZM,Zambia,04,-11.19976,28.89431,170965,Africa/Lusaka
+905395,Mufulira,Mufulira,ZM,Zambia,08,-12.54982,28.24071,169136,Africa/Lusaka
+13132725,Chunga,Chunga,ZM,Zambia,09,-15.31737,28.26868,115539,Africa/Lusaka
+919544,Chililabombwe,Chililabombwe,ZM,Zambia,08,-12.36475,27.82286,113876,Africa/Lusaka
+906054,Mongu,Mongu,ZM,Zambia,01,-15.24835,23.12741,111450,Africa/Lusaka
+907111,Mazabuka,Mazabuka,ZM,Zambia,07,-15.85601,27.748,104412,Africa/Lusaka
+915883,Kafue,Kafue,ZM,Zambia,09,-15.76911,28.18136,104174,Africa/Lusaka
+914959,Kalulushi,Kalulushi,ZM,Zambia,08,-12.84151,28.09479,104046,Africa/Lusaka
+917748,Choma,Choma,ZM,Zambia,07,-16.80889,26.9875,98974,Africa/Lusaka
+13132732,Namalombwe,Namalombwe,ZM,Zambia,09,-15.39053,28.18986,97758,Africa/Lusaka
+890299,Harare,Harare,ZW,Zimbabwe,10,-17.82772,31.05337,1542813,Africa/Harare
+894701,Bulawayo,Bulawayo,ZW,Zimbabwe,09,-20.15,28.58333,665952,Africa/Harare
+1106542,Chitungwiza,Chitungwiza,ZW,Zimbabwe,10,-18.01274,31.07555,371246,Africa/Harare
+884979,Mutare,Mutare,ZW,Zimbabwe,01,-18.9707,32.67086,224802,Africa/Harare
+1085510,Epworth,Epworth,ZW,Zimbabwe,10,-17.89,31.1475,206368,Africa/Harare
+890422,Gweru,Gweru,ZW,Zimbabwe,02,-19.45,29.81667,158200,Africa/Harare
+888710,Kwekwe,Kwekwe,ZW,Zimbabwe,02,-18.92809,29.81486,119863,Africa/Harare
+889453,Kadoma,Kadoma,ZW,Zimbabwe,05,-18.33328,29.91534,117381,Africa/Harare
+882009,Ruwa,Ruwa,ZW,Zimbabwe,04,-17.88972,31.24472,94083,Africa/Harare
+893697,Chinhoyi,Chinhoyi,ZW,Zimbabwe,05,-17.36667,30.2,90800,Africa/Harare
+886763,Masvingo,Masvingo,ZW,Zimbabwe,08,-20.06373,30.82766,90286,Africa/Harare
+884141,Norton,Norton,ZW,Zimbabwe,05,-17.88333,30.7,87039,Africa/Harare
+886990,Marondera,Marondera,ZW,Zimbabwe,04,-18.18527,31.55193,66204,Africa/Harare
+894239,Chegutu,Chegutu,ZW,Zimbabwe,05,-18.13021,30.14074,65800,Africa/Harare
+878549,Zvishavane,Zvishavane,ZW,Zimbabwe,08,-20.32674,30.06648,59717,Africa/Harare
+895269,Beitbridge,Beitbridge,ZW,Zimbabwe,07,-22.21667,30.0,58574,Africa/Harare
+895061,Bindura,Bindura,ZW,Zimbabwe,03,-17.30192,31.33056,50400,Africa/Harare
