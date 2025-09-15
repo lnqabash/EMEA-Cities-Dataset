@@ -3,9 +3,9 @@ import io, os, zipfile, requests, pandas as pd
 # -------- CONFIG --------
 GEONAMES_ZIP_URL = "https://download.geonames.org/export/dump/cities500.zip"
 COUNTRY_INFO_URL = "https://download.geonames.org/export/dump/countryInfo.txt"
-EMEA_COUNTRY_LIST_FILE = "emea_countries.txt"
-OUT_CSV = "emea_country_major_cities.csv"
-OUT_XLSX = "emea_country_major_cities.xlsx"
+EMEA_COUNTRY_LIST_FILE = "Data/emea_countries.txt"
+OUT_CSV = "Outputs/emea_country_major_cities.csv"
+OUT_XLSX = "Outputs/emea_country_major_cities.xlsx"
 TOP_N_CITIES_PER_COUNTRY = 20   # Top N cities per country by population
 MIN_POPULATION = 50000          # optional: filter out small towns
 # ------------------------
@@ -78,3 +78,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
