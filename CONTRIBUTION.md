@@ -9,5 +9,5 @@ This document outlines how you can help improve and maintain the repository.
 
 1. **Fork** the repository and clone it locally.
    ```bash
-   git clone https://github.com/<your-username>/emea-cities-dataset.git
+   git clone https://github.com/lnqabash/emea-cities-dataset.git
    cd emea-cities-dataset
